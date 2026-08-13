@@ -1,0 +1,935 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "k6 Learn",
+          "description": "Explanation of the principles of load testing and practical examples for how to do it with k6.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T15:13:39Z",
+            "owner": "grafana-cold-storage",
+            "repo": "k6-learn",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudPosse's Load Testing Stack",
+          "description": "Load testing stack using k6, Grafana and InfluxDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-12-15T11:53:17Z",
+            "owner": "cloudposse-archives",
+            "repo": "load-testing",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6 OSS workshop",
+          "description": "A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-05-28T18:09:03Z",
+            "owner": "grafana-cold-storage",
+            "repo": "k6-oss-workshop",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "k6-typescript-template",
+          "description": "Starter template using Webpack bundler to write k6 tests in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T09:26:48Z",
+            "owner": "grafana-cold-storage",
+            "repo": "k6-template-typescript",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luketn/docker-k6-grafana-influxdb",
+          "description": "Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-02T00:19:52Z",
+            "owner": "luketn",
+            "repo": "docker-k6-grafana-influxdb",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6 QuickPizza examples",
+          "description": "Web application used for demos and workshops with multiple k6 examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T14:09:03Z",
+            "owner": "grafana",
+            "repo": "quickpizza",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-template-es6",
+          "description": "Starter template using Webpack and Babel to enable ES6 features in k6 tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T09:05:18Z",
+            "owner": "grafana-cold-storage",
+            "repo": "k6-template-es6",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwissLife-OSS/k6-multiscenario-template",
+          "description": "Use K6 to implement a Multi Scenario template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-06T18:39:26Z",
+            "owner": "SwissLife-OSS",
+            "repo": "K6-MultiScenario-template",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tom-miseur/k6-templates",
+          "description": "Opinionated starter templates for k6 projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-29T16:31:20Z",
+            "owner": "tom-miseur",
+            "repo": "k6-templates",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lreimer/continuous-k6k8s",
+          "description": "Continuously run k6 tests in Kubernetes using cronjobs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-05-11T09:42:31Z",
+            "owner": "lreimer",
+            "repo": "continuous-k6k8s",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-rollup-example",
+          "description": "Example using Rollup to bundle k6 tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T15:23:43Z",
+            "owner": "grafana-cold-storage",
+            "repo": "k6-rollup-example",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jahmilli/k6-example",
+          "description": "Starter template using Vite (Rollup) bundler to write k6 tests in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-27T02:45:16Z",
+            "owner": "Jahmilli",
+            "repo": "k6-example",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mohsenny/k6-test-template",
+          "description": "Load testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-25T14:40:10Z",
+            "owner": "mohsenny",
+            "repo": "k6-test-template",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Im5tu/template-k6",
+          "description": "A K6 Performance Test Suite Template.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-10-10T21:04:01Z",
+            "owner": "Im5tu",
+            "repo": "template-k6",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kwidera/k6_framework",
+          "description": "Another k6 framework example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-22T12:52:59Z",
+            "owner": "kwidera",
+            "repo": "k6_framework",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sahanipe/pet_store",
+          "description": "Modularized scripts for the Swagger PetStore APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-10T19:05:54Z",
+            "owner": "Sahanipe",
+            "repo": "pet_store",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Examples/Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "k6 generator",
+          "description": "Tool for converting Swagger/OpenAPI specifications to k6 test scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T11:56:20Z",
+            "owner": "OpenAPITools",
+            "repo": "openapi-generator",
+            "stars": 26667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-reporter",
+          "description": "Tool for converting k6 output to HTML reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "EJS",
+            "last_commit": "2026-03-01T15:22:27Z",
+            "owner": "benc-uk",
+            "repo": "k6-reporter",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postman-to-k6",
+          "description": "Tool for converting Postman collections to k6 test scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-06-08T14:14:27Z",
+            "owner": "grafana-cold-storage",
+            "repo": "postman-to-k6",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "har-to-k6",
+          "description": "Tool for converting HAR recordings to k6 test scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T01:05:01Z",
+            "owner": "grafana",
+            "repo": "har-to-k6",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jmeter-to-k6",
+          "description": "Tool for converting JMeter test cases to k6 test scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-07T12:39:26Z",
+            "owner": "grafana-cold-storage",
+            "repo": "jmeter-to-k6",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-html-reporter",
+          "description": "Tool for generating k6 HTML reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-09-19T14:18:46Z",
+            "owner": "szboynono",
+            "repo": "k6-html-reporter",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-to-junit",
+          "description": "Tool for converting k6 output to JUnit XML for easy use with CIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-19T20:31:56Z",
+            "owner": "Mattihew",
+            "repo": "k6-to-junit",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-junit",
+          "description": "k6 JUnit summary exporter libray.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-02T16:44:26Z",
+            "owner": "simbadltd",
+            "repo": "k6-junit",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-expect",
+          "description": "k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-06T06:10:21Z",
+            "owner": "simbadltd",
+            "repo": "k6-expect",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xk6-sql",
+          "description": "Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T00:02:32Z",
+            "owner": "grafana",
+            "repo": "xk6-sql",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-disruptor",
+          "description": "Inject faults to test 💣.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-02-12T15:06:09Z",
+            "owner": "grafana-cold-storage",
+            "repo": "xk6-disruptor",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-kubernetes",
+          "description": "Interact with Kubernetes clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-02T14:23:02Z",
+            "owner": "grafana",
+            "repo": "xk6-kubernetes",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-output-influxdb",
+          "description": "Export results to InfluxDB v2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:02:19Z",
+            "owner": "grafana",
+            "repo": "xk6-output-influxdb",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-client-tracing",
+          "description": "Client for load testing distributed tracing backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:01:46Z",
+            "owner": "grafana",
+            "repo": "xk6-client-tracing",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-loki",
+          "description": "Client for load testing Loki.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T15:01:26Z",
+            "owner": "grafana",
+            "repo": "xk6-loki",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-output-timescaledb",
+          "description": "Export k6 results to TimescaleDB.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-08T00:03:43Z",
+            "owner": "grafana-cold-storage",
+            "repo": "xk6-output-timescaledb",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-client-prometheus-remote",
+          "description": "Test Prometheus Remote Write performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T08:28:21Z",
+            "owner": "grafana",
+            "repo": "xk6-client-prometheus-remote",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-exec",
+          "description": "Run external commands.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-29T12:00:46Z",
+            "owner": "grafana-cold-storage",
+            "repo": "xk6-exec",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-output-kafka",
+          "description": "Export k6 results in real-time to Kafka.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-07T06:17:26Z",
+            "owner": "grafana-cold-storage",
+            "repo": "xk6-output-kafka",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-notification",
+          "description": "Create notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Makefile",
+            "last_commit": "2024-06-10T08:30:02Z",
+            "owner": "grafana-cold-storage",
+            "repo": "xk6-notification",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-ssh",
+          "description": "SSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T14:30:49Z",
+            "owner": "grafana",
+            "repo": "xk6-ssh",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Official"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xk6-kafka",
+          "description": "Load-test Apache Kafka. Includes support for Avro messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-18T20:35:38Z",
+            "owner": "mostafa",
+            "repo": "xk6-kafka",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-faker",
+          "description": "Generate random fake data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T14:22:25Z",
+            "owner": "grafana",
+            "repo": "xk6-faker",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-mqtt",
+          "description": "MQTT extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-15T18:08:05Z",
+            "owner": "pmalhaire",
+            "repo": "xk6-mqtt",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-playwright",
+          "description": "Browser automation and end-to-end web testing using Playwright.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-06-10T16:52:04Z",
+            "owner": "nicholasvuono",
+            "repo": "xk6-playwright",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-prometheus",
+          "description": "Prometheus HTTP exporter for k6.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-01T23:48:33Z",
+            "owner": "szkiba",
+            "repo": "xk6-prometheus",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-sse",
+          "description": "A k6 extension for Server-Sent Events (SSE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-24T20:28:55Z",
+            "owner": "phymbert",
+            "repo": "xk6-sse",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-g0",
+          "description": "Write k6 tests in golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-01T23:07:05Z",
+            "owner": "szkiba",
+            "repo": "xk6-g0",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-file",
+          "description": "Write files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T14:34:13Z",
+            "owner": "avitalique",
+            "repo": "xk6-file",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-output-statsd",
+          "description": "Enables real-time output of test metrics to a StatsD service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T15:33:09Z",
+            "owner": "LeonAdato",
+            "repo": "xk6-output-statsd",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-opentelemetry",
+          "description": "Generate OpenTelemetry signals from within your test scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-26T08:55:55Z",
+            "owner": "thmshmm",
+            "repo": "xk6-opentelemetry",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-dotenv",
+          "description": "Load env vars from a .env file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-02T00:16:27Z",
+            "owner": "szkiba",
+            "repo": "xk6-dotenv",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-cable",
+          "description": "Test Action Cable and AnyCable functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-24T17:11:34Z",
+            "owner": "anycable",
+            "repo": "xk6-cable",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-top",
+          "description": "Updating the current k6 metrics summaries on the terminal during the test run.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-09T10:51:17Z",
+            "owner": "szkiba",
+            "repo": "xk6-top",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-kv",
+          "description": "Share key-value data between VUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T15:39:13Z",
+            "owner": "oleiade",
+            "repo": "xk6-kv",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-output-elasticsearch",
+          "description": "Export results to Elasticsearch 8.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T19:07:33Z",
+            "owner": "elastic",
+            "repo": "xk6-output-elasticsearch",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-tcp",
+          "description": "Send data to TCP port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-27T19:43:19Z",
+            "owner": "NAlexandrov",
+            "repo": "xk6-tcp",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-coap",
+          "description": "Interact with Constrained Application Protocol endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-10T09:46:42Z",
+            "owner": "golioth",
+            "repo": "xk6-coap",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-prompt",
+          "description": "Support for input arguments via UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-10T08:27:21Z",
+            "owner": "Juandavi1",
+            "repo": "xk6-prompt",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-output-prometheus-pushgateway",
+          "description": "Export results to Prometheus pushgateway.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-29T05:31:13Z",
+            "owner": "martymarron",
+            "repo": "xk6-output-prometheus-pushgateway",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-output-timestream",
+          "description": "Export results to AWS Timestream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:47:20Z",
+            "owner": "leonyork",
+            "repo": "xk6-output-timestream",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-nats",
+          "description": "Provides NATS support for k6 tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-10T09:35:40Z",
+            "owner": "ydarias",
+            "repo": "xk6-nats",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-mock",
+          "description": "Mock HTTP(S) servers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-08-21T09:24:28Z",
+            "owner": "szkiba",
+            "repo": "xk6-mock",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-ethereum",
+          "description": "K6 extension for ethereum protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-29T08:53:13Z",
+            "owner": "distributedlabs",
+            "repo": "xk6-ethereum",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-http-benchmark",
+          "description": "A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-05T09:20:09Z",
+            "owner": "denji",
+            "repo": "awesome-http-benchmark",
+            "stars": 3764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Load Testing Toolkit",
+          "description": "A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-01T09:53:53Z",
+            "owner": "aliesbelik",
+            "repo": "load-testing-toolkit",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How They Load Test",
+          "description": "A collection of resources on how companies around the world perform load testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-11T15:09:18Z",
+            "owner": "aliesbelik",
+            "repo": "how-they-load",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Related"
+    },
+    {
+      "description": "Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our code of conduct and contribution guidelines.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:11:57.616Z",
+    "original_repository": "grafana/awesome-k6",
+    "original_repository_sha": "744cb1e7117b9d8cbff339e27d4122ec0322f566",
+    "enhanced_repository": "enhansome/enhansome-k6",
+    "enhanced_repository_description": null,
+    "title": "Awesome k6 with stars"
+  }
+}
