@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T11:10:32Z",
+            "last_commit": "2026-08-15T11:09:59Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -247,10 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T05:43:33Z",
+            "last_commit": "2026-08-15T12:22:56Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26669
+            "stars": 26673
           }
         },
         {
@@ -379,7 +379,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T03:02:19Z",
+            "last_commit": "2026-08-14T21:02:56Z",
             "owner": "grafana",
             "repo": "xk6-sql",
             "stars": 190
@@ -421,7 +421,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T03:01:24Z",
+            "last_commit": "2026-08-14T21:02:01Z",
             "owner": "grafana",
             "repo": "xk6-output-influxdb",
             "stars": 83
@@ -435,7 +435,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T03:02:58Z",
+            "last_commit": "2026-08-14T18:04:10Z",
             "owner": "grafana",
             "repo": "xk6-client-tracing",
             "stars": 60
@@ -477,7 +477,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T03:00:56Z",
+            "last_commit": "2026-08-14T18:02:25Z",
             "owner": "grafana",
             "repo": "xk6-client-prometheus-remote",
             "stars": 32
@@ -533,7 +533,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T03:03:06Z",
+            "last_commit": "2026-08-14T21:03:46Z",
             "owner": "grafana",
             "repo": "xk6-ssh",
             "stars": 13
@@ -567,7 +567,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T03:01:30Z",
+            "last_commit": "2026-08-14T21:02:08Z",
             "owner": "grafana",
             "repo": "xk6-faker",
             "stars": 118
@@ -819,7 +819,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T22:04:36Z",
+            "last_commit": "2026-08-15T02:59:00Z",
             "owner": "leonyork",
             "repo": "xk6-output-timestream",
             "stars": 16
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:05:30.594Z",
+    "last_updated": "2026-08-15T13:20:36.565Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_sha": "744cb1e7117b9d8cbff339e27d4122ec0322f566",
     "enhanced_repository": "enhansome/enhansome-k6",
