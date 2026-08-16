@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T11:09:59Z",
+            "last_commit": "2026-08-16T08:09:24Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -247,10 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T12:22:56Z",
+            "last_commit": "2026-08-15T14:40:27Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26673
+            "stars": 26675
           }
         },
         {
@@ -819,7 +819,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T02:59:00Z",
+            "last_commit": "2026-08-15T17:30:39Z",
             "owner": "leonyork",
             "repo": "xk6-output-timestream",
             "stars": 16
@@ -925,7 +925,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:20:36.565Z",
+    "last_updated": "2026-08-16T13:22:01.179Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_sha": "744cb1e7117b9d8cbff339e27d4122ec0322f566",
     "enhanced_repository": "enhansome/enhansome-k6",
