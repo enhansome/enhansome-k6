@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T08:09:24Z",
+            "last_commit": "2026-08-17T11:10:22Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -247,24 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T14:40:27Z",
+            "last_commit": "2026-08-17T09:51:13Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "k6-reporter",
-          "description": "Tool for converting k6 output to HTML reports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "EJS",
-            "last_commit": "2026-03-01T15:22:27Z",
-            "owner": "benc-uk",
-            "repo": "k6-reporter",
-            "stars": 550
+            "stars": 26677
           }
         },
         {
@@ -364,6 +350,12 @@
             "repo": "k6-expect",
             "stars": 2
           }
+        },
+        {
+          "node_type": "item",
+          "title": "k6-reporter",
+          "description": "Tool for converting k6 output to HTML reports.",
+          "children": []
         }
       ],
       "title": "Tools"
@@ -421,7 +413,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T21:02:01Z",
+            "last_commit": "2026-08-17T12:01:11Z",
             "owner": "grafana",
             "repo": "xk6-output-influxdb",
             "stars": 83
@@ -585,20 +577,6 @@
             "owner": "pmalhaire",
             "repo": "xk6-mqtt",
             "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-playwright",
-          "description": "Browser automation and end-to-end web testing using Playwright.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-06-10T16:52:04Z",
-            "owner": "nicholasvuono",
-            "repo": "xk6-playwright",
-            "stars": 54
           }
         },
         {
@@ -819,7 +797,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T17:30:39Z",
+            "last_commit": "2026-08-17T10:43:58Z",
             "owner": "leonyork",
             "repo": "xk6-output-timestream",
             "stars": 16
@@ -866,6 +844,12 @@
             "repo": "xk6-ethereum",
             "stars": 13
           }
+        },
+        {
+          "node_type": "item",
+          "title": "xk6-playwright",
+          "description": "Browser automation and end-to-end web testing using Playwright.",
+          "children": []
         }
       ],
       "title": "Community"
@@ -884,7 +868,7 @@
             "last_commit": "2026-05-05T09:20:09Z",
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3763
+            "stars": 3762
           }
         },
         {
@@ -925,7 +909,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:22:01.179Z",
+    "last_updated": "2026-08-17T13:30:09.456Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_sha": "744cb1e7117b9d8cbff339e27d4122ec0322f566",
     "enhanced_repository": "enhansome/enhansome-k6",
