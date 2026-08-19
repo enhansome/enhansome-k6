@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 301353051,
             "language": "JavaScript",
             "last_commit": "2026-05-27T15:13:39Z",
             "owner": "grafana-cold-storage",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 134269921,
             "language": "JavaScript",
             "last_commit": "2023-12-15T11:53:17Z",
             "owner": "cloudposse-archives",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 777696531,
             "language": "JavaScript",
             "last_commit": "2026-05-28T18:09:03Z",
             "owner": "grafana-cold-storage",
@@ -49,7 +52,7 @@
       "title": "Articles"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 270954907,
             "language": "TypeScript",
             "last_commit": "2026-06-01T09:26:48Z",
             "owner": "grafana-cold-storage",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286036391,
             "language": "JavaScript",
             "last_commit": "2025-04-02T00:19:52Z",
             "owner": "luketn",
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-18T11:09:19Z",
+            "last_commit": "2026-08-19T11:09:16Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 250518612,
             "language": "JavaScript",
             "last_commit": "2026-06-02T09:05:18Z",
             "owner": "grafana-cold-storage",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377483385,
             "language": "JavaScript",
             "last_commit": "2024-10-06T18:39:26Z",
             "owner": "SwissLife-OSS",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 478808897,
             "language": "JavaScript",
             "last_commit": "2022-07-29T16:31:20Z",
             "owner": "tom-miseur",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310405671,
             "language": "TypeScript",
             "last_commit": "2021-05-11T09:42:31Z",
             "owner": "lreimer",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 744978850,
             "language": "JavaScript",
             "last_commit": "2026-05-27T15:23:43Z",
             "owner": "grafana-cold-storage",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649661115,
             "language": "TypeScript",
             "last_commit": "2023-11-27T02:45:16Z",
             "owner": "Jahmilli",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 735565504,
             "language": "JavaScript",
             "last_commit": "2023-12-25T14:40:10Z",
             "owner": "mohsenny",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 302981451,
             "language": "JavaScript",
             "last_commit": "2020-10-10T21:04:01Z",
             "owner": "Im5tu",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 731249472,
             "language": "JavaScript",
             "last_commit": "2024-05-22T12:52:59Z",
             "owner": "kwidera",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 677107775,
             "language": "JavaScript",
             "last_commit": "2023-08-10T19:05:54Z",
             "owner": "Sahanipe",
@@ -237,7 +253,7 @@
       "title": "Examples/Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-18T02:26:01Z",
+            "last_commit": "2026-08-19T12:19:17Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26678
+            "stars": 26679
           }
         },
         {
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327669478,
             "language": "EJS",
             "last_commit": "2026-03-01T15:22:27Z",
             "owner": "benc-uk",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 91872205,
             "language": "JavaScript",
             "last_commit": "2026-06-08T14:14:27Z",
             "owner": "grafana-cold-storage",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171713086,
             "language": "JavaScript",
             "last_commit": "2026-08-13T19:04:23Z",
             "owner": "grafana",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 155695715,
             "language": "JavaScript",
             "last_commit": "2022-02-07T12:39:26Z",
             "owner": "grafana-cold-storage",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 318934059,
             "language": "HTML",
             "last_commit": "2021-09-19T14:18:46Z",
             "owner": "szboynono",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199381057,
             "language": "TypeScript",
             "last_commit": "2023-10-19T20:31:56Z",
             "owner": "Mattihew",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452167317,
             "language": "JavaScript",
             "last_commit": "2023-04-02T16:44:26Z",
             "owner": "simbadltd",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453644165,
             "language": "TypeScript",
             "last_commit": "2023-04-06T06:10:21Z",
             "owner": "simbadltd",
@@ -369,509 +394,552 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "xk6-sql",
-          "description": "Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:02:16Z",
-            "owner": "grafana",
-            "repo": "xk6-sql",
-            "stars": 190
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xk6-sql",
+              "description": "Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306383338,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:09:39Z",
+                "owner": "grafana",
+                "repo": "xk6-sql",
+                "stars": 190
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-disruptor",
+              "description": "Inject faults to test 💣.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 530295633,
+                "language": "Go",
+                "last_commit": "2026-02-12T15:06:09Z",
+                "owner": "grafana-cold-storage",
+                "repo": "xk6-disruptor",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-kubernetes",
+              "description": "Interact with Kubernetes clusters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359751045,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:09:04Z",
+                "owner": "grafana",
+                "repo": "xk6-kubernetes",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-influxdb",
+              "description": "Export results to InfluxDB v2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418433841,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:09:24Z",
+                "owner": "grafana",
+                "repo": "xk6-output-influxdb",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-client-tracing",
+              "description": "Client for load testing distributed tracing backends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422510734,
+                "language": "Go",
+                "last_commit": "2026-08-14T18:04:10Z",
+                "owner": "grafana",
+                "repo": "xk6-client-tracing",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-loki",
+              "description": "Client for load testing Loki.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428559978,
+                "language": "Go",
+                "last_commit": "2026-08-13T15:02:45Z",
+                "owner": "grafana",
+                "repo": "xk6-loki",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-timescaledb",
+              "description": "Export k6 results to TimescaleDB.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 390620404,
+                "language": "Go",
+                "last_commit": "2026-04-08T00:03:43Z",
+                "owner": "grafana-cold-storage",
+                "repo": "xk6-output-timescaledb",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-client-prometheus-remote",
+              "description": "Test Prometheus Remote Write performance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342031394,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:07:26Z",
+                "owner": "grafana",
+                "repo": "xk6-client-prometheus-remote",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-exec",
+              "description": "Run external commands.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 334131591,
+                "language": "Go",
+                "last_commit": "2026-04-29T12:00:46Z",
+                "owner": "grafana-cold-storage",
+                "repo": "xk6-exec",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-kafka",
+              "description": "Export k6 results in real-time to Kafka.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 353397620,
+                "language": "Go",
+                "last_commit": "2026-04-07T06:17:26Z",
+                "owner": "grafana-cold-storage",
+                "repo": "xk6-output-kafka",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-notification",
+              "description": "Create notifications.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 314078421,
+                "language": "Makefile",
+                "last_commit": "2024-06-10T08:30:02Z",
+                "owner": "grafana-cold-storage",
+                "repo": "xk6-notification",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-ssh",
+              "description": "SSH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349022246,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:10:30Z",
+                "owner": "grafana",
+                "repo": "xk6-ssh",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official"
         },
         {
-          "node_type": "item",
-          "title": "xk6-disruptor",
-          "description": "Inject faults to test 💣.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-02-12T15:06:09Z",
-            "owner": "grafana-cold-storage",
-            "repo": "xk6-disruptor",
-            "stars": 117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-kubernetes",
-          "description": "Interact with Kubernetes clusters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T08:26:53Z",
-            "owner": "grafana",
-            "repo": "xk6-kubernetes",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-output-influxdb",
-          "description": "Export results to InfluxDB v2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:01:11Z",
-            "owner": "grafana",
-            "repo": "xk6-output-influxdb",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-client-tracing",
-          "description": "Client for load testing distributed tracing backends.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T18:04:10Z",
-            "owner": "grafana",
-            "repo": "xk6-client-tracing",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-loki",
-          "description": "Client for load testing Loki.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T15:02:45Z",
-            "owner": "grafana",
-            "repo": "xk6-loki",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-output-timescaledb",
-          "description": "Export k6 results to TimescaleDB.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-04-08T00:03:43Z",
-            "owner": "grafana-cold-storage",
-            "repo": "xk6-output-timescaledb",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-client-prometheus-remote",
-          "description": "Test Prometheus Remote Write performance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:02:34Z",
-            "owner": "grafana",
-            "repo": "xk6-client-prometheus-remote",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-exec",
-          "description": "Run external commands.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-04-29T12:00:46Z",
-            "owner": "grafana-cold-storage",
-            "repo": "xk6-exec",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-output-kafka",
-          "description": "Export k6 results in real-time to Kafka.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-04-07T06:17:26Z",
-            "owner": "grafana-cold-storage",
-            "repo": "xk6-output-kafka",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-notification",
-          "description": "Create notifications.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Makefile",
-            "last_commit": "2024-06-10T08:30:02Z",
-            "owner": "grafana-cold-storage",
-            "repo": "xk6-notification",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-ssh",
-          "description": "SSH.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-14T21:03:46Z",
-            "owner": "grafana",
-            "repo": "xk6-ssh",
-            "stars": 13
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "xk6-kafka",
+              "description": "Load-test Apache Kafka. Includes support for Avro messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262574091,
+                "language": "Go",
+                "last_commit": "2026-07-18T20:35:38Z",
+                "owner": "mostafa",
+                "repo": "xk6-kafka",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-faker",
+              "description": "Generate random fake data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372546038,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T11:08:16Z",
+                "owner": "grafana",
+                "repo": "xk6-faker",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-mqtt",
+              "description": "MQTT extension.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338000272,
+                "language": "Go",
+                "last_commit": "2025-10-15T18:08:05Z",
+                "owner": "pmalhaire",
+                "repo": "xk6-mqtt",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-playwright",
+              "description": "Browser automation and end-to-end web testing using Playwright.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 428379263,
+                "language": "Go",
+                "last_commit": "2024-06-10T16:52:04Z",
+                "owner": "nicholasvuono",
+                "repo": "xk6-playwright",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-prometheus",
+              "description": "Prometheus HTTP exporter for k6.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365274751,
+                "language": "Go",
+                "last_commit": "2026-03-01T23:48:33Z",
+                "owner": "szkiba",
+                "repo": "xk6-prometheus",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-sse",
+              "description": "A k6 extension for Server-Sent Events (SSE).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 782133133,
+                "language": "Go",
+                "last_commit": "2026-08-18T09:42:12Z",
+                "owner": "phymbert",
+                "repo": "xk6-sse",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-g0",
+              "description": "Write k6 tests in golang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 651202487,
+                "language": "Go",
+                "last_commit": "2026-03-01T23:07:05Z",
+                "owner": "szkiba",
+                "repo": "xk6-g0",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-file",
+              "description": "Write files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351921391,
+                "language": "Go",
+                "last_commit": "2026-08-17T22:44:19Z",
+                "owner": "avitalique",
+                "repo": "xk6-file",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-statsd",
+              "description": "Enables real-time output of test metrics to a StatsD service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672949580,
+                "language": "Go",
+                "last_commit": "2026-08-13T15:33:01Z",
+                "owner": "LeonAdato",
+                "repo": "xk6-output-statsd",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-opentelemetry",
+              "description": "Generate OpenTelemetry signals from within your test scripts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609576097,
+                "language": "Go",
+                "last_commit": "2024-06-26T08:55:55Z",
+                "owner": "thmshmm",
+                "repo": "xk6-opentelemetry",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-dotenv",
+              "description": "Load env vars from a .env file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 371710601,
+                "language": "Go",
+                "last_commit": "2026-03-02T00:16:27Z",
+                "owner": "szkiba",
+                "repo": "xk6-dotenv",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-cable",
+              "description": "Test Action Cable and AnyCable functionality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370995437,
+                "language": "Go",
+                "last_commit": "2024-06-24T17:11:34Z",
+                "owner": "anycable",
+                "repo": "xk6-cable",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-top",
+              "description": "Updating the current k6 metrics summaries on the terminal during the test run.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620922605,
+                "language": "Go",
+                "last_commit": "2026-03-09T10:51:17Z",
+                "owner": "szkiba",
+                "repo": "xk6-top",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-kv",
+              "description": "Share key-value data between VUs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668324880,
+                "language": "Go",
+                "last_commit": "2026-07-27T15:39:13Z",
+                "owner": "oleiade",
+                "repo": "xk6-kv",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-elasticsearch",
+              "description": "Export results to Elasticsearch 8.x.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485689598,
+                "language": "Go",
+                "last_commit": "2026-08-04T19:07:33Z",
+                "owner": "elastic",
+                "repo": "xk6-output-elasticsearch",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-tcp",
+              "description": "Send data to TCP port.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 382391907,
+                "language": "Go",
+                "last_commit": "2025-11-27T19:43:19Z",
+                "owner": "NAlexandrov",
+                "repo": "xk6-tcp",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-coap",
+              "description": "Interact with Constrained Application Protocol endpoints.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636459693,
+                "language": "Go",
+                "last_commit": "2024-06-10T09:46:42Z",
+                "owner": "golioth",
+                "repo": "xk6-coap",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-prompt",
+              "description": "Support for input arguments via UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 567408406,
+                "language": "Go",
+                "last_commit": "2024-06-10T08:27:21Z",
+                "owner": "Juandavi1",
+                "repo": "xk6-prompt",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-prometheus-pushgateway",
+              "description": "Export results to Prometheus pushgateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574348738,
+                "language": "Go",
+                "last_commit": "2024-07-29T05:31:13Z",
+                "owner": "martymarron",
+                "repo": "xk6-output-prometheus-pushgateway",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-timestream",
+              "description": "Export results to AWS Timestream.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 565231443,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:53:51Z",
+                "owner": "leonyork",
+                "repo": "xk6-output-timestream",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-nats",
+              "description": "Provides NATS support for k6 tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428166904,
+                "language": "Go",
+                "last_commit": "2024-06-10T09:35:40Z",
+                "owner": "ydarias",
+                "repo": "xk6-nats",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-mock",
+              "description": "Mock HTTP(S) servers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 370929043,
+                "language": "Go",
+                "last_commit": "2024-08-21T09:24:28Z",
+                "owner": "szkiba",
+                "repo": "xk6-mock",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-ethereum",
+              "description": "K6 extension for ethereum protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533046064,
+                "language": "Go",
+                "last_commit": "2024-09-29T08:53:13Z",
+                "owner": "distributedlabs",
+                "repo": "xk6-ethereum",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community"
         }
       ],
-      "title": "Official"
+      "title": "Extensions"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "xk6-kafka",
-          "description": "Load-test Apache Kafka. Includes support for Avro messages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-18T20:35:38Z",
-            "owner": "mostafa",
-            "repo": "xk6-kafka",
-            "stars": 216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-faker",
-          "description": "Generate random fake data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T09:07:28Z",
-            "owner": "grafana",
-            "repo": "xk6-faker",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-mqtt",
-          "description": "MQTT extension.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-10-15T18:08:05Z",
-            "owner": "pmalhaire",
-            "repo": "xk6-mqtt",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-playwright",
-          "description": "Browser automation and end-to-end web testing using Playwright.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-06-10T16:52:04Z",
-            "owner": "nicholasvuono",
-            "repo": "xk6-playwright",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-prometheus",
-          "description": "Prometheus HTTP exporter for k6.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-01T23:48:33Z",
-            "owner": "szkiba",
-            "repo": "xk6-prometheus",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-sse",
-          "description": "A k6 extension for Server-Sent Events (SSE).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:42:12Z",
-            "owner": "phymbert",
-            "repo": "xk6-sse",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-g0",
-          "description": "Write k6 tests in golang.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-01T23:07:05Z",
-            "owner": "szkiba",
-            "repo": "xk6-g0",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-file",
-          "description": "Write files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T22:44:19Z",
-            "owner": "avitalique",
-            "repo": "xk6-file",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-output-statsd",
-          "description": "Enables real-time output of test metrics to a StatsD service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T15:33:01Z",
-            "owner": "LeonAdato",
-            "repo": "xk6-output-statsd",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-opentelemetry",
-          "description": "Generate OpenTelemetry signals from within your test scripts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-26T08:55:55Z",
-            "owner": "thmshmm",
-            "repo": "xk6-opentelemetry",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-dotenv",
-          "description": "Load env vars from a .env file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-02T00:16:27Z",
-            "owner": "szkiba",
-            "repo": "xk6-dotenv",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-cable",
-          "description": "Test Action Cable and AnyCable functionality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-24T17:11:34Z",
-            "owner": "anycable",
-            "repo": "xk6-cable",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-top",
-          "description": "Updating the current k6 metrics summaries on the terminal during the test run.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-09T10:51:17Z",
-            "owner": "szkiba",
-            "repo": "xk6-top",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-kv",
-          "description": "Share key-value data between VUs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-27T15:39:13Z",
-            "owner": "oleiade",
-            "repo": "xk6-kv",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-output-elasticsearch",
-          "description": "Export results to Elasticsearch 8.x.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-04T19:07:33Z",
-            "owner": "elastic",
-            "repo": "xk6-output-elasticsearch",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-tcp",
-          "description": "Send data to TCP port.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-11-27T19:43:19Z",
-            "owner": "NAlexandrov",
-            "repo": "xk6-tcp",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-coap",
-          "description": "Interact with Constrained Application Protocol endpoints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-10T09:46:42Z",
-            "owner": "golioth",
-            "repo": "xk6-coap",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-prompt",
-          "description": "Support for input arguments via UI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-10T08:27:21Z",
-            "owner": "Juandavi1",
-            "repo": "xk6-prompt",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-output-prometheus-pushgateway",
-          "description": "Export results to Prometheus pushgateway.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-07-29T05:31:13Z",
-            "owner": "martymarron",
-            "repo": "xk6-output-prometheus-pushgateway",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-output-timestream",
-          "description": "Export results to AWS Timestream.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T14:56:22Z",
-            "owner": "leonyork",
-            "repo": "xk6-output-timestream",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-nats",
-          "description": "Provides NATS support for k6 tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-10T09:35:40Z",
-            "owner": "ydarias",
-            "repo": "xk6-nats",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-mock",
-          "description": "Mock HTTP(S) servers.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-08-21T09:24:28Z",
-            "owner": "szkiba",
-            "repo": "xk6-mock",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xk6-ethereum",
-          "description": "K6 extension for ethereum protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-09-29T08:53:13Z",
-            "owner": "distributedlabs",
-            "repo": "xk6-ethereum",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Community"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -880,6 +948,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83001364,
             "language": null,
             "last_commit": "2026-05-05T09:20:09Z",
             "owner": "denji",
@@ -894,11 +963,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246082993,
             "language": null,
             "last_commit": "2026-07-01T09:53:53Z",
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
-            "stars": 251
+            "stars": 252
           }
         },
         {
@@ -908,6 +978,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395657834,
             "language": null,
             "last_commit": "2026-08-11T15:09:18Z",
             "owner": "aliesbelik",
@@ -917,17 +988,13 @@
         }
       ],
       "title": "Related"
-    },
-    {
-      "description": "Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our code of conduct and contribution guidelines.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:33:38.303Z",
+    "last_updated": "2026-08-19T12:36:34.305Z",
     "original_repository": "grafana/awesome-k6",
-    "original_repository_sha": "744cb1e7117b9d8cbff339e27d4122ec0322f566",
+    "original_repository_id": 236692087,
+    "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
     "enhanced_repository": "enhansome/enhansome-k6",
     "enhanced_repository_description": null,
     "title": "Awesome k6 with stars"
