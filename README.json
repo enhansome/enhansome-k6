@@ -264,7 +264,7 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-19T12:19:17Z",
+            "last_commit": "2026-08-19T12:52:12Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26679
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 171713086,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:04:23Z",
+            "last_commit": "2026-08-19T13:32:50Z",
             "owner": "grafana",
             "repo": "har-to-k6",
             "stars": 164
@@ -437,7 +437,7 @@
                 "archived": false,
                 "id": 359751045,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:09:04Z",
+                "last_commit": "2026-08-19T12:51:36Z",
                 "owner": "grafana",
                 "repo": "xk6-kubernetes",
                 "stars": 83
@@ -452,7 +452,7 @@
                 "archived": false,
                 "id": 418433841,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:09:24Z",
+                "last_commit": "2026-08-19T12:51:20Z",
                 "owner": "grafana",
                 "repo": "xk6-output-influxdb",
                 "stars": 83
@@ -609,7 +609,7 @@
                 "archived": false,
                 "id": 372546038,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T11:08:16Z",
+                "last_commit": "2026-08-19T12:52:03Z",
                 "owner": "grafana",
                 "repo": "xk6-faker",
                 "stars": 118
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:34.305Z",
+    "last_updated": "2026-08-19T13:34:44.243Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",

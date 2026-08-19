@@ -133,10 +133,10 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,679 | 🐛 5,714 | 🌐 Java | 📅 2026-08-19 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,679 | 🐛 5,715 | 🌐 Java | 📅 2026-08-19 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 551 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
-* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-13 - Tool for converting HAR recordings to k6 test scripts.
+* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-19 - Tool for converting HAR recordings to k6 test scripts.
 * [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) ⚠️ Archived - Tool for converting JMeter test cases to k6 test scripts.
 * [k6-html-reporter](https://github.com/szboynono/k6-html-reporter) ⭐ 25 | 🐛 2 | 🌐 HTML | 📅 2021-09-19 - Tool for generating k6 HTML reports.
 * [k6-to-junit](https://github.com/Mattihew/k6-to-junit) ⭐ 20 | 🐛 9 | 🌐 TypeScript | 📅 2023-10-19 - Tool for converting k6 output to JUnit XML for easy use with CIs.
@@ -171,8 +171,8 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [xk6-sql](https://github.com/grafana/xk6-sql) ⭐ 190 | 🐛 20 | 🌐 Go | 📅 2026-08-19 - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
 * [xk6-disruptor](https://github.com/grafana/xk6-disruptor) ⚠️ Archived - Inject faults to test 💣.
-* [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 83 | 🐛 15 | 🌐 Go | 📅 2026-08-19 - Interact with Kubernetes clusters.
-* [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 14 | 🌐 Go | 📅 2026-08-19 - Export results to InfluxDB v2.
+* [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 83 | 🐛 14 | 🌐 Go | 📅 2026-08-19 - Interact with Kubernetes clusters.
+* [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 13 | 🌐 Go | 📅 2026-08-19 - Export results to InfluxDB v2.
 * [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) ⭐ 60 | 🐛 23 | 🌐 Go | 📅 2026-08-14 - Client for load testing distributed tracing backends.
 * [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 19 | 🌐 Go | 📅 2026-08-13 - Client for load testing Loki.
 * [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) ⚠️ Archived - Export k6 results to TimescaleDB.
@@ -185,7 +185,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 ### Community
 
 * [xk6-kafka](https://github.com/mostafa/xk6-kafka) ⭐ 216 | 🐛 9 | 🌐 Go | 📅 2026-07-18 - Load-test Apache Kafka. Includes support for Avro messages.
-* [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 118 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-19 - Generate random fake data.
+* [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 118 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-19 - Generate random fake data.
 * [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 4 | 🌐 Go | 📅 2025-10-15 - MQTT extension.
 * [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) ⚠️ Archived - Browser automation and end-to-end web testing using Playwright.
 * [xk6-prometheus](https://github.com/szkiba/xk6-prometheus) ⭐ 54 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Prometheus HTTP exporter for k6.
