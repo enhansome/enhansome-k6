@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-19T11:09:16Z",
+            "last_commit": "2026-08-20T11:09:03Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-19T12:52:12Z",
+            "last_commit": "2026-08-20T07:41:29Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26679
+            "stars": 26682
           }
         },
         {
@@ -407,7 +407,7 @@
                 "archived": false,
                 "id": 306383338,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:09:39Z",
+                "last_commit": "2026-08-19T18:11:07Z",
                 "owner": "grafana",
                 "repo": "xk6-sql",
                 "stars": 190
@@ -512,7 +512,7 @@
                 "archived": false,
                 "id": 342031394,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:07:26Z",
+                "last_commit": "2026-08-19T18:11:15Z",
                 "owner": "grafana",
                 "repo": "xk6-client-prometheus-remote",
                 "stars": 32
@@ -572,7 +572,7 @@
                 "archived": false,
                 "id": 349022246,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:10:30Z",
+                "last_commit": "2026-08-19T14:06:17Z",
                 "owner": "grafana",
                 "repo": "xk6-ssh",
                 "stars": 13
@@ -672,7 +672,7 @@
                 "last_commit": "2026-08-18T09:42:12Z",
                 "owner": "phymbert",
                 "repo": "xk6-sse",
-                "stars": 51
+                "stars": 52
               }
             },
             {
@@ -879,7 +879,7 @@
                 "archived": false,
                 "id": 565231443,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:53:51Z",
+                "last_commit": "2026-08-20T06:09:38Z",
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16
@@ -953,7 +953,7 @@
             "last_commit": "2026-05-05T09:20:09Z",
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3762
+            "stars": 3763
           }
         },
         {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:34:44.243Z",
+    "last_updated": "2026-08-20T13:36:19.275Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
