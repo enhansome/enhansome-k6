@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-22T11:10:06Z",
+            "last_commit": "2026-08-23T11:09:59Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-22T10:45:08Z",
+            "last_commit": "2026-08-23T07:08:11Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26682
+            "stars": 26681
           }
         },
         {
@@ -467,7 +467,7 @@
                 "archived": false,
                 "id": 422510734,
                 "language": "Go",
-                "last_commit": "2026-08-22T12:02:07Z",
+                "last_commit": "2026-08-23T00:02:19Z",
                 "owner": "grafana",
                 "repo": "xk6-client-tracing",
                 "stars": 60
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:22:13.523Z",
+    "last_updated": "2026-08-23T13:23:00.166Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
