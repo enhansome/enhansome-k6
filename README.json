@@ -15,7 +15,7 @@
             "last_commit": "2026-05-27T15:13:39Z",
             "owner": "grafana-cold-storage",
             "repo": "k6-learn",
-            "stars": 443
+            "stars": 444
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-23T11:09:59Z",
+            "last_commit": "2026-08-24T11:09:57Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-23T07:08:11Z",
+            "last_commit": "2026-08-24T13:21:35Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26681
+            "stars": 26686
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 171713086,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T13:32:50Z",
+            "last_commit": "2026-08-24T13:27:39Z",
             "owner": "grafana",
             "repo": "har-to-k6",
             "stars": 164
@@ -467,7 +467,7 @@
                 "archived": false,
                 "id": 422510734,
                 "language": "Go",
-                "last_commit": "2026-08-23T00:02:19Z",
+                "last_commit": "2026-08-23T15:02:59Z",
                 "owner": "grafana",
                 "repo": "xk6-client-tracing",
                 "stars": 60
@@ -879,7 +879,7 @@
                 "archived": false,
                 "id": 565231443,
                 "language": "Go",
-                "last_commit": "2026-08-21T10:41:51Z",
+                "last_commit": "2026-08-24T06:59:39Z",
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16
@@ -953,7 +953,7 @@
             "last_commit": "2026-08-20T19:12:26Z",
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3764
+            "stars": 3765
           }
         },
         {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:23:00.166Z",
+    "last_updated": "2026-08-24T13:40:19.772Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
