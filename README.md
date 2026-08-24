@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,686 | 🐛 5,715 | 🌐 Java | 📅 2026-08-24 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,686 | 🐛 5,714 | 🌐 Java | 📅 2026-08-24 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 551 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-24 - Tool for converting HAR recordings to k6 test scripts.

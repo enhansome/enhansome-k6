@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:57Z",
+            "last_commit": "2026-08-24T14:10:39Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:40:19.772Z",
+    "last_updated": "2026-08-24T14:17:35.825Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
