@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-24T14:10:39Z",
+            "last_commit": "2026-08-25T05:10:21Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-24T13:21:35Z",
+            "last_commit": "2026-08-25T02:41:44Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26686
+            "stars": 26687
           }
         },
         {
@@ -452,7 +452,7 @@
                 "archived": false,
                 "id": 418433841,
                 "language": "Go",
-                "last_commit": "2026-08-22T03:00:47Z",
+                "last_commit": "2026-08-24T15:02:14Z",
                 "owner": "grafana",
                 "repo": "xk6-output-influxdb",
                 "stars": 83
@@ -922,12 +922,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "id": 533046064,
-                "language": "Go",
-                "last_commit": "2024-09-29T08:53:13Z",
-                "owner": "distributedlabs",
+                "id": 1345429257,
+                "language": null,
+                "last_commit": "2026-08-24T21:47:44Z",
+                "owner": "distribworks",
                 "repo": "xk6-ethereum",
-                "stars": 13
+                "stars": 0
               }
             }
           ],
@@ -953,7 +953,7 @@
             "last_commit": "2026-08-20T19:12:26Z",
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3765
+            "stars": 3766
           }
         },
         {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:35.825Z",
+    "last_updated": "2026-08-25T06:13:42.526Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
