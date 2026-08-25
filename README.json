@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-25T05:10:21Z",
+            "last_commit": "2026-08-25T11:09:58Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-25T02:41:44Z",
+            "last_commit": "2026-08-25T08:28:21Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26687
+            "stars": 26685
           }
         },
         {
@@ -407,7 +407,7 @@
                 "archived": false,
                 "id": 306383338,
                 "language": "Go",
-                "last_commit": "2026-08-22T00:03:13Z",
+                "last_commit": "2026-08-25T08:46:16Z",
                 "owner": "grafana",
                 "repo": "xk6-sql",
                 "stars": 190
@@ -512,7 +512,7 @@
                 "archived": false,
                 "id": 342031394,
                 "language": "Go",
-                "last_commit": "2026-08-22T00:02:20Z",
+                "last_commit": "2026-08-25T09:17:12Z",
                 "owner": "grafana",
                 "repo": "xk6-client-prometheus-remote",
                 "stars": 32
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:42.526Z",
+    "last_updated": "2026-08-25T13:38:30.535Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",

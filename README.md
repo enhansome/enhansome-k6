@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,687 | 🐛 5,715 | 🌐 Java | 📅 2026-08-25 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,685 | 🐛 5,717 | 🌐 Java | 📅 2026-08-25 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 551 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-24 - Tool for converting HAR recordings to k6 test scripts.
@@ -169,14 +169,14 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Official
 
-* [xk6-sql](https://github.com/grafana/xk6-sql) ⭐ 190 | 🐛 20 | 🌐 Go | 📅 2026-08-22 - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
+* [xk6-sql](https://github.com/grafana/xk6-sql) ⭐ 190 | 🐛 19 | 🌐 Go | 📅 2026-08-25 - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
 * [xk6-disruptor](https://github.com/grafana/xk6-disruptor) ⚠️ Archived - Inject faults to test 💣.
 * [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 83 | 🐛 14 | 🌐 Go | 📅 2026-08-19 - Interact with Kubernetes clusters.
 * [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 12 | 🌐 Go | 📅 2026-08-24 - Export results to InfluxDB v2.
 * [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) ⭐ 60 | 🐛 23 | 🌐 Go | 📅 2026-08-23 - Client for load testing distributed tracing backends.
 * [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 19 | 🌐 Go | 📅 2026-08-13 - Client for load testing Loki.
 * [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) ⚠️ Archived - Export k6 results to TimescaleDB.
-* [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 5 | 🌐 Go | 📅 2026-08-22 - Test Prometheus Remote Write performance.
+* [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 4 | 🌐 Go | 📅 2026-08-25 - Test Prometheus Remote Write performance.
 * [xk6-exec](https://github.com/grafana/xk6-exec) ⚠️ Archived - Run external commands.
 * [xk6-output-kafka](https://github.com/grafana/xk6-output-kafka) ⚠️ Archived - Export k6 results in real-time to Kafka.
 * [xk6-notification](https://github.com/grafana/xk6-notification) ⚠️ Archived - Create notifications.
