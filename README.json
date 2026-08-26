@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-25T11:09:58Z",
+            "last_commit": "2026-08-26T11:10:00Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 163
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-25T08:28:21Z",
+            "last_commit": "2026-08-26T07:38:48Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26685
@@ -575,7 +575,7 @@
                 "last_commit": "2026-08-22T03:01:48Z",
                 "owner": "grafana",
                 "repo": "xk6-ssh",
-                "stars": 13
+                "stars": 14
               }
             }
           ],
@@ -804,7 +804,7 @@
                 "archived": false,
                 "id": 485689598,
                 "language": "Go",
-                "last_commit": "2026-08-04T19:07:33Z",
+                "last_commit": "2026-08-26T11:02:18Z",
                 "owner": "elastic",
                 "repo": "xk6-output-elasticsearch",
                 "stars": 25
@@ -879,7 +879,7 @@
                 "archived": false,
                 "id": 565231443,
                 "language": "Go",
-                "last_commit": "2026-08-24T06:59:39Z",
+                "last_commit": "2026-08-26T02:05:28Z",
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16
@@ -953,7 +953,7 @@
             "last_commit": "2026-08-20T19:12:26Z",
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3766
+            "stars": 3765
           }
         },
         {
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:38:30.535Z",
+    "last_updated": "2026-08-26T13:43:13.571Z",
     "original_repository": "grafana/awesome-k6",
     "original_repository_id": 236692087,
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
