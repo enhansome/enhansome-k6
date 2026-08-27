@@ -93,7 +93,7 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-27T11:12:34Z",
+            "last_commit": "2026-08-27T20:11:21Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 164
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-27T10:07:23Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26686
+            "stars": 26687
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 171713086,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:27:39Z",
+            "last_commit": "2026-08-27T13:26:00Z",
             "owner": "grafana",
             "repo": "har-to-k6",
             "stars": 164
@@ -714,7 +714,7 @@
                 "archived": false,
                 "id": 672949580,
                 "language": "Go",
-                "last_commit": "2026-08-13T15:33:01Z",
+                "last_commit": "2026-08-27T21:01:10Z",
                 "owner": "LeonAdato",
                 "repo": "xk6-output-statsd",
                 "stars": 35
@@ -879,7 +879,7 @@
                 "archived": false,
                 "id": 565231443,
                 "language": "Go",
-                "last_commit": "2026-08-27T03:28:20Z",
+                "last_commit": "2026-08-27T20:14:22Z",
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:00.405Z",
+    "last_updated": "2026-08-27T22:39:27.101Z",
     "original_repository_info": {
       "archived": false,
       "id": 236692087,
