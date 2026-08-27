@@ -93,10 +93,10 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-26T11:10:00Z",
+            "last_commit": "2026-08-27T11:12:34Z",
             "owner": "grafana",
             "repo": "quickpizza",
-            "stars": 163
+            "stars": 164
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-26T07:38:48Z",
+            "last_commit": "2026-08-27T10:07:23Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26685
+            "stars": 26686
           }
         },
         {
@@ -597,7 +597,7 @@
                 "last_commit": "2026-07-18T20:35:38Z",
                 "owner": "mostafa",
                 "repo": "xk6-kafka",
-                "stars": 216
+                "stars": 217
               }
             },
             {
@@ -879,7 +879,7 @@
                 "archived": false,
                 "id": 565231443,
                 "language": "Go",
-                "last_commit": "2026-08-26T02:05:28Z",
+                "last_commit": "2026-08-27T03:28:20Z",
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16
@@ -991,9 +991,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:43:13.571Z",
-    "original_repository": "grafana/awesome-k6",
-    "original_repository_id": 236692087,
+    "last_updated": "2026-08-27T11:49:00.405Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 236692087,
+      "language": null,
+      "last_commit": "2026-08-18T23:40:48Z",
+      "owner": "grafana",
+      "repo": "awesome-k6",
+      "stars": 774
+    },
     "original_repository_sha": "74f6d67f46d2eb472370517e4d34e10cb1e7f4ba",
     "enhanced_repository": "enhansome/enhansome-k6",
     "enhanced_repository_description": null,
