@@ -16,7 +16,8 @@
             "owner": "grafana-cold-storage",
             "repo": "k6-learn",
             "stars": 444
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "cloudposse-archives",
             "repo": "load-testing",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "grafana-cold-storage",
             "repo": "k6-oss-workshop",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         }
       ],
       "title": "Articles"
@@ -67,7 +70,8 @@
             "owner": "grafana-cold-storage",
             "repo": "k6-template-typescript",
             "stars": 306
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "luketn",
             "repo": "docker-k6-grafana-influxdb",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 614795116,
             "language": "Go",
-            "last_commit": "2026-08-27T20:11:21Z",
+            "last_commit": "2026-08-28T20:11:20Z",
             "owner": "grafana",
             "repo": "quickpizza",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "grafana-cold-storage",
             "repo": "k6-template-es6",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "SwissLife-OSS",
             "repo": "K6-MultiScenario-template",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "tom-miseur",
             "repo": "k6-templates",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "lreimer",
             "repo": "continuous-k6k8s",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "grafana-cold-storage",
             "repo": "k6-rollup-example",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Jahmilli",
             "repo": "k6-example",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "mohsenny",
             "repo": "k6-test-template",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "Im5tu",
             "repo": "template-k6",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "kwidera",
             "repo": "k6_framework",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "Sahanipe",
             "repo": "pet_store",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         }
       ],
       "title": "Examples/Templates"
@@ -264,11 +280,12 @@
             "archived": false,
             "id": 133134007,
             "language": "Java",
-            "last_commit": "2026-08-27T10:07:23Z",
+            "last_commit": "2026-08-28T04:15:32Z",
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26687
-          }
+            "stars": 26695
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "benc-uk",
             "repo": "k6-reporter",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "grafana-cold-storage",
             "repo": "postman-to-k6",
             "stars": 296
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -309,11 +328,12 @@
             "archived": false,
             "id": 171713086,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:26:00Z",
+            "last_commit": "2026-08-28T10:24:50Z",
             "owner": "grafana",
             "repo": "har-to-k6",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "grafana-cold-storage",
             "repo": "jmeter-to-k6",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "szboynono",
             "repo": "k6-html-reporter",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "Mattihew",
             "repo": "k6-to-junit",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "simbadltd",
             "repo": "k6-junit",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "simbadltd",
             "repo": "k6-expect",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         }
       ],
       "title": "Tools"
@@ -411,7 +436,8 @@
                 "owner": "grafana",
                 "repo": "xk6-sql",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -426,7 +452,8 @@
                 "owner": "grafana-cold-storage",
                 "repo": "xk6-disruptor",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -441,7 +468,8 @@
                 "owner": "grafana",
                 "repo": "xk6-kubernetes",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -456,7 +484,8 @@
                 "owner": "grafana",
                 "repo": "xk6-output-influxdb",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -467,11 +496,12 @@
                 "archived": false,
                 "id": 422510734,
                 "language": "Go",
-                "last_commit": "2026-08-23T15:02:59Z",
+                "last_commit": "2026-08-28T18:04:54Z",
                 "owner": "grafana",
                 "repo": "xk6-client-tracing",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -482,11 +512,12 @@
                 "archived": false,
                 "id": 428559978,
                 "language": "Go",
-                "last_commit": "2026-08-13T15:02:45Z",
+                "last_commit": "2026-08-28T18:03:37Z",
                 "owner": "grafana",
                 "repo": "xk6-loki",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -501,7 +532,8 @@
                 "owner": "grafana-cold-storage",
                 "repo": "xk6-output-timescaledb",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -512,11 +544,12 @@
                 "archived": false,
                 "id": 342031394,
                 "language": "Go",
-                "last_commit": "2026-08-25T09:17:12Z",
+                "last_commit": "2026-08-28T18:02:29Z",
                 "owner": "grafana",
                 "repo": "xk6-client-prometheus-remote",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -531,7 +564,8 @@
                 "owner": "grafana-cold-storage",
                 "repo": "xk6-exec",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -546,7 +580,8 @@
                 "owner": "grafana-cold-storage",
                 "repo": "xk6-output-kafka",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -561,7 +596,8 @@
                 "owner": "grafana-cold-storage",
                 "repo": "xk6-notification",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -572,11 +608,12 @@
                 "archived": false,
                 "id": 349022246,
                 "language": "Go",
-                "last_commit": "2026-08-22T03:01:48Z",
+                "last_commit": "2026-08-28T21:01:33Z",
                 "owner": "grafana",
                 "repo": "xk6-ssh",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             }
           ],
           "description": null,
@@ -598,7 +635,8 @@
                 "owner": "mostafa",
                 "repo": "xk6-kafka",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -613,7 +651,8 @@
                 "owner": "grafana",
                 "repo": "xk6-faker",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -628,7 +667,8 @@
                 "owner": "pmalhaire",
                 "repo": "xk6-mqtt",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -643,7 +683,8 @@
                 "owner": "nicholasvuono",
                 "repo": "xk6-playwright",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -658,7 +699,8 @@
                 "owner": "szkiba",
                 "repo": "xk6-prometheus",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -673,7 +715,8 @@
                 "owner": "phymbert",
                 "repo": "xk6-sse",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -688,7 +731,8 @@
                 "owner": "szkiba",
                 "repo": "xk6-g0",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -703,7 +747,8 @@
                 "owner": "avitalique",
                 "repo": "xk6-file",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -718,7 +763,8 @@
                 "owner": "LeonAdato",
                 "repo": "xk6-output-statsd",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -733,7 +779,8 @@
                 "owner": "thmshmm",
                 "repo": "xk6-opentelemetry",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -748,7 +795,8 @@
                 "owner": "szkiba",
                 "repo": "xk6-dotenv",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -763,7 +811,8 @@
                 "owner": "anycable",
                 "repo": "xk6-cable",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -778,7 +827,8 @@
                 "owner": "szkiba",
                 "repo": "xk6-top",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -792,8 +842,9 @@
                 "last_commit": "2026-07-27T15:39:13Z",
                 "owner": "oleiade",
                 "repo": "xk6-kv",
-                "stars": 26
-              }
+                "stars": 27
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -808,7 +859,8 @@
                 "owner": "elastic",
                 "repo": "xk6-output-elasticsearch",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -823,7 +875,8 @@
                 "owner": "NAlexandrov",
                 "repo": "xk6-tcp",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -838,7 +891,8 @@
                 "owner": "golioth",
                 "repo": "xk6-coap",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -853,7 +907,8 @@
                 "owner": "Juandavi1",
                 "repo": "xk6-prompt",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -868,7 +923,8 @@
                 "owner": "martymarron",
                 "repo": "xk6-output-prometheus-pushgateway",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -879,11 +935,12 @@
                 "archived": false,
                 "id": 565231443,
                 "language": "Go",
-                "last_commit": "2026-08-27T20:14:22Z",
+                "last_commit": "2026-08-28T21:36:13Z",
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -898,7 +955,8 @@
                 "owner": "ydarias",
                 "repo": "xk6-nats",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -913,7 +971,8 @@
                 "owner": "szkiba",
                 "repo": "xk6-mock",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             },
             {
               "node_type": "item",
@@ -928,7 +987,8 @@
                 "owner": "distribworks",
                 "repo": "xk6-ethereum",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
             }
           ],
           "description": null,
@@ -953,8 +1013,9 @@
             "last_commit": "2026-08-20T19:12:26Z",
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3765
-          }
+            "stars": 3767
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -968,8 +1029,9 @@
             "last_commit": "2026-07-01T09:53:53Z",
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
-            "stars": 252
-          }
+            "stars": 253
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         },
         {
           "node_type": "item",
@@ -984,14 +1046,15 @@
             "owner": "aliesbelik",
             "repo": "how-they-load",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T22:45:03.434Z"
         }
       ],
       "title": "Related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:39:27.101Z",
+    "last_updated": "2026-08-28T22:45:03.434Z",
     "original_repository_info": {
       "archived": false,
       "id": 236692087,
