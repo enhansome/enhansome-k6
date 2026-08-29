@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,696 | 🐛 5,709 | 🌐 Java | 📅 2026-08-28 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,701 | 🐛 5,712 | 🌐 Java | 📅 2026-08-28 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 551 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-28 - Tool for converting HAR recordings to k6 test scripts.
@@ -203,7 +203,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-coap](https://github.com/golioth/xk6-coap) ⭐ 17 | 🐛 6 | 🌐 Go | 📅 2024-06-10 - Interact with Constrained Application Protocol endpoints.
 * [xk6-prompt](https://github.com/Juandavi1/xk6-prompt) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2024-06-10 - Support for input arguments via UI.
 * [xk6-output-prometheus-pushgateway](https://github.com/martymarron/xk6-output-prometheus-pushgateway) ⭐ 16 | 🐛 5 | 🌐 Go | 📅 2024-07-29 - Export results to Prometheus pushgateway.
-* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 7 | 🌐 Go | 📅 2026-08-29 - Export results to AWS Timestream.
+* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 6 | 🌐 Go | 📅 2026-08-29 - Export results to AWS Timestream.
 * [xk6-nats](https://github.com/ydarias/xk6-nats) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2024-06-10 - Provides NATS support for k6 tests.
 * [xk6-mock](https://github.com/szkiba/xk6-mock) ⚠️ Archived - Mock HTTP(S) servers.
 * [xk6-ethereum](https://github.com/distribworks/xk6-ethereum) ⭐ 0 | 🐛 0 | 📅 2026-08-24 - K6 extension for ethereum protocols.
