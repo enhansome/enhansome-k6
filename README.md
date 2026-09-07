@@ -117,7 +117,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [k6-typescript-template](https://github.com/grafana/k6-template-typescript) ⚠️ Archived - Starter template using Webpack bundler to write k6 tests in TypeScript.
 * [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) ⭐ 179 | 🐛 3 | 🌐 JavaScript | 📅 2025-04-02 - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
-* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 165 | 🐛 36 | 🌐 Go | 📅 2026-09-06 - Web application used for demos and workshops with multiple k6 examples.
+* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 165 | 🐛 36 | 🌐 Go | 📅 2026-09-07 - Web application used for demos and workshops with multiple k6 examples.
 * [k6-template-es6](https://github.com/grafana/k6-template-es6) ⚠️ Archived - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 * [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-06 - Use K6 to implement a Multi Scenario template.
 * [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-29 - Opinionated starter templates for k6 projects.
@@ -133,8 +133,8 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,726 | 🐛 5,741 | 🌐 Java | 📅 2026-09-06 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
-* [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 551 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,730 | 🐛 5,745 | 🌐 Java | 📅 2026-09-07 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 550 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-02 - Tool for converting HAR recordings to k6 test scripts.
 * [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) ⚠️ Archived - Tool for converting JMeter test cases to k6 test scripts.
@@ -203,15 +203,15 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-coap](https://github.com/golioth/xk6-coap) ⭐ 17 | 🐛 6 | 🌐 Go | 📅 2024-06-10 - Interact with Constrained Application Protocol endpoints.
 * [xk6-prompt](https://github.com/Juandavi1/xk6-prompt) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2024-06-10 - Support for input arguments via UI.
 * [xk6-output-prometheus-pushgateway](https://github.com/martymarron/xk6-output-prometheus-pushgateway) ⭐ 16 | 🐛 5 | 🌐 Go | 📅 2024-07-29 - Export results to Prometheus pushgateway.
-* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 6 | 🌐 Go | 📅 2026-09-05 - Export results to AWS Timestream.
+* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 6 | 🌐 Go | 📅 2026-09-07 - Export results to AWS Timestream.
 * [xk6-nats](https://github.com/ydarias/xk6-nats) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2024-06-10 - Provides NATS support for k6 tests.
 * [xk6-mock](https://github.com/szkiba/xk6-mock) ⚠️ Archived - Mock HTTP(S) servers.
 * [xk6-ethereum](https://github.com/distribworks/xk6-ethereum) ⭐ 0 | 🐛 0 | 📅 2026-08-24 - K6 extension for ethereum protocols.
 
 ## Related
 
-* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,770 | 🐛 15 | 📅 2026-08-31 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 253 | 🐛 1 | 📅 2026-07-01 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,771 | 🐛 15 | 📅 2026-08-31 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 254 | 🐛 1 | 📅 2026-09-07 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 1 | 📅 2026-08-31 - A collection of resources on how companies around the world perform load testing.
 
 ## Contributing
@@ -224,4 +224,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
