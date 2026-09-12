@@ -117,7 +117,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [k6-typescript-template](https://github.com/grafana/k6-template-typescript) ⚠️ Archived - Starter template using Webpack bundler to write k6 tests in TypeScript.
 * [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) ⭐ 179 | 🐛 3 | 🌐 JavaScript | 📅 2025-04-02 - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
-* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 167 | 🐛 37 | 🌐 Go | 📅 2026-09-11 - Web application used for demos and workshops with multiple k6 examples.
+* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 167 | 🐛 37 | 🌐 Go | 📅 2026-09-12 - Web application used for demos and workshops with multiple k6 examples.
 * [k6-template-es6](https://github.com/grafana/k6-template-es6) ⚠️ Archived - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 * [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-06 - Use K6 to implement a Multi Scenario template.
 * [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-29 - Opinionated starter templates for k6 projects.
@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,738 | 🐛 5,759 | 🌐 Java | 📅 2026-09-11 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,737 | 🐛 5,758 | 🌐 Java | 📅 2026-09-11 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 551 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-09 - Tool for converting HAR recordings to k6 test scripts.
@@ -186,10 +186,10 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [xk6-kafka](https://github.com/mostafa/xk6-kafka) ⭐ 218 | 🐛 3 | 🌐 Go | 📅 2026-09-08 - Load-test Apache Kafka. Includes support for Avro messages.
 * [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 118 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-11 - Generate random fake data.
-* [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 4 | 🌐 Go | 📅 2025-10-15 - MQTT extension.
+* [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 4 | 🌐 Go | 📅 2026-09-12 - MQTT extension.
 * [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) ⚠️ Archived - Browser automation and end-to-end web testing using Playwright.
 * [xk6-prometheus](https://github.com/szkiba/xk6-prometheus) ⭐ 54 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Prometheus HTTP exporter for k6.
-* [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 52 | 🐛 13 | 🌐 Go | 📅 2026-08-18 - A k6 extension for Server-Sent Events (SSE).
+* [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 52 | 🐛 3 | 🌐 Go | 📅 2026-09-12 - A k6 extension for Server-Sent Events (SSE).
 * [xk6-g0](https://github.com/szkiba/xk6-g0) ⭐ 47 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Write k6 tests in golang.
 * [xk6-output-statsd](https://github.com/LeonAdato/xk6-output-statsd) ⭐ 36 | 🐛 9 | 🌐 Go | 📅 2026-08-31 - Enables real-time output of test metrics to a StatsD service.
 * [xk6-file](https://github.com/avitalique/xk6-file) ⭐ 35 | 🐛 2 | 🌐 Go | 📅 2026-08-17 - Write files.
@@ -224,4 +224,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
