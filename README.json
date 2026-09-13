@@ -140,11 +140,11 @@
             "id": 614795116,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T14:09:52Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-13T16:13:33Z",
+            "open_issues": 38,
             "owner": "grafana",
             "repo": "quickpizza",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-28T22:45:03.434Z"
@@ -398,7 +398,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T08:46:10Z",
-            "open_issues": 5758,
+            "open_issues": 5762,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26737,
@@ -436,7 +436,7 @@
             "open_issues": 5,
             "owner": "benc-uk",
             "repo": "k6-reporter",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "html-report",
               "k6",
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:54:17.246Z",
+    "last_updated": "2026-09-13T16:40:51.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
