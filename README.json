@@ -140,7 +140,7 @@
             "id": 614795116,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T11:08:26Z",
+            "last_commit": "2026-09-27T14:09:49Z",
             "open_issues": 29,
             "owner": "grafana",
             "repo": "quickpizza",
@@ -398,10 +398,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T23:14:32Z",
-            "open_issues": 5737,
+            "open_issues": 5744,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26763,
+            "stars": 26766,
             "topics": [
               "api",
               "api-client",
@@ -739,7 +739,7 @@
                 "id": 422510734,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-24T18:03:45Z",
+                "last_commit": "2026-09-27T12:03:07Z",
                 "open_issues": 28,
                 "owner": "grafana",
                 "repo": "xk6-client-tracing",
@@ -1636,7 +1636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T16:47:57.079Z",
+    "last_updated": "2026-09-27T17:19:44.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
