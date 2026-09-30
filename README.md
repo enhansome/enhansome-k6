@@ -117,7 +117,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [k6-typescript-template](https://github.com/grafana/k6-template-typescript) ⚠️ Archived - Starter template using Webpack bundler to write k6 tests in TypeScript.
 * [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) ⭐ 179 | 🐛 3 | 🌐 JavaScript | 📅 2025-04-02 - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
-* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 169 | 🐛 17 | 🌐 Go | 📅 2026-09-29 - Web application used for demos and workshops with multiple k6 examples.
+* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 169 | 🐛 17 | 🌐 Go | 📅 2026-09-30 - Web application used for demos and workshops with multiple k6 examples.
 * [k6-template-es6](https://github.com/grafana/k6-template-es6) ⚠️ Archived - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 * [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-06 - Use K6 to implement a Multi Scenario template.
 * [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-29 - Opinionated starter templates for k6 projects.
@@ -133,10 +133,10 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,774 | 🐛 5,742 | 🌐 Java | 📅 2026-09-29 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,772 | 🐛 5,729 | 🌐 Java | 📅 2026-09-30 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 555 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
-* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 165 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-21 - Tool for converting HAR recordings to k6 test scripts.
+* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 165 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-30 - Tool for converting HAR recordings to k6 test scripts.
 * [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) ⚠️ Archived - Tool for converting JMeter test cases to k6 test scripts.
 * [k6-html-reporter](https://github.com/szboynono/k6-html-reporter) ⭐ 25 | 🐛 2 | 🌐 HTML | 📅 2021-09-19 - Tool for generating k6 HTML reports.
 * [k6-to-junit](https://github.com/Mattihew/k6-to-junit) ⭐ 20 | 🐛 9 | 🌐 TypeScript | 📅 2023-10-19 - Tool for converting k6 output to JUnit XML for easy use with CIs.
@@ -145,7 +145,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 * [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6\&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 * [k6 for IntelliJ](https://plugins.jetbrains.com/plugin/16141-k6) - IntelliJ-based Plugin to run and debug \[sic!] k6 tests locally or in the [k6 Cloud](https://app.k6.io/) from your IntelliJ IDE.
-* [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
+* [k6 Testkube executor](https://docs.testkube.io/test-types/executor-k6)
 
 ## CI/CD
 
@@ -206,6 +206,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2026-09-29 - Export results to AWS Timestream.
 * [xk6-nats](https://github.com/ydarias/xk6-nats) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2024-06-10 - Provides NATS support for k6 tests.
 * [xk6-mock](https://github.com/szkiba/xk6-mock) ⚠️ Archived - Mock HTTP(S) servers.
+* [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-09-30 - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
 * [xk6-ethereum](https://github.com/distribworks/xk6-ethereum) ⭐ 0 | 🐛 0 | 📅 2026-08-24 - K6 extension for ethereum protocols.
 
 ## Related
@@ -224,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
