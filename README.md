@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,770 | 🐛 5,743 | 🌐 Java | 📅 2026-10-01 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,771 | 🐛 5,758 | 🌐 Java | 📅 2026-10-02 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 555 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 165 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-30 - Tool for converting HAR recordings to k6 test scripts.
@@ -169,7 +169,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Official
 
-* [xk6-sql](https://github.com/grafana/xk6-sql) ⭐ 190 | 🐛 19 | 🌐 Go | 📅 2026-10-01 - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
+* [xk6-sql](https://github.com/grafana/xk6-sql) ⭐ 191 | 🐛 19 | 🌐 Go | 📅 2026-10-01 - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
 * [xk6-disruptor](https://github.com/grafana/xk6-disruptor) ⚠️ Archived - Inject faults to test 💣.
 * [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 83 | 🐛 15 | 🌐 Go | 📅 2026-10-01 - Interact with Kubernetes clusters.
 * [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 13 | 🌐 Go | 📅 2026-10-01 - Export results to InfluxDB v2.
@@ -211,7 +211,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Related
 
-* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,775 | 🐛 16 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,775 | 🐛 15 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 * [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 254 | 🐛 1 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 1 | 📅 2026-08-31 - A collection of resources on how companies around the world perform load testing.
 
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
