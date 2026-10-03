@@ -398,7 +398,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T08:51:08Z",
-            "open_issues": 5758,
+            "open_issues": 5762,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26771,
@@ -1315,7 +1315,7 @@
                 "id": 485689598,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T15:04:42Z",
+                "last_commit": "2026-10-02T19:18:19Z",
                 "open_issues": 18,
                 "owner": "elastic",
                 "repo": "xk6-output-elasticsearch",
@@ -1628,7 +1628,7 @@
             "open_issues": 1,
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
-            "stars": 254,
+            "stars": 253,
             "topics": [
               "benchmarking",
               "ddos",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:05:07.776Z",
+    "last_updated": "2026-10-03T04:52:08.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
@@ -1682,7 +1682,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-30T14:34:21Z",
-      "open_issues": 4,
+      "open_issues": 3,
       "owner": "grafana",
       "repo": "awesome-k6",
       "stars": 778,
