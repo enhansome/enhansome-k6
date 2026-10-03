@@ -397,8 +397,8 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:51:08Z",
-            "open_issues": 5762,
+            "last_commit": "2026-10-03T16:47:29Z",
+            "open_issues": 5756,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26771,
@@ -949,7 +949,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T16:44:51Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "mostafa",
                 "repo": "xk6-kafka",
                 "stars": 218,
@@ -1588,7 +1588,7 @@
             "open_issues": 15,
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3775,
+            "stars": 3776,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:08.125Z",
+    "last_updated": "2026-10-03T16:48:53.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
