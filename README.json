@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T16:47:29Z",
-            "open_issues": 5756,
+            "last_commit": "2026-10-04T15:46:45Z",
+            "open_issues": 5743,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26771,
+            "stars": 26770,
             "topics": [
               "api",
               "api-client",
@@ -1515,7 +1515,7 @@
                 "id": 1386201212,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T01:45:40Z",
+                "last_commit": "2026-10-04T10:42:46Z",
                 "open_issues": 0,
                 "owner": "Dmitry-Fedotov-Dev",
                 "repo": "xk6-sip",
@@ -1588,7 +1588,7 @@
             "open_issues": 15,
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3776,
+            "stars": 3777,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:48:53.742Z",
+    "last_updated": "2026-10-04T17:07:16.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
