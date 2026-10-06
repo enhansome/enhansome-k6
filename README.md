@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,771 | 🐛 5,742 | 🌐 Java | 📅 2026-10-05 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,771 | 🐛 5,749 | 🌐 Java | 📅 2026-10-06 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 166 | 🐛 21 | 🌐 JavaScript | 📅 2026-09-30 - Tool for converting HAR recordings to k6 test scripts.
@@ -185,7 +185,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 ### Community
 
 * [xk6-kafka](https://github.com/mostafa/xk6-kafka) ⭐ 218 | 🐛 5 | 🌐 Go | 📅 2026-09-08 - Load-test Apache Kafka. Includes support for Avro messages.
-* [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 118 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-05 - Generate random fake data.
+* [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 118 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-06 - Generate random fake data.
 * [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 4 | 🌐 Go | 📅 2026-09-12 - MQTT extension.
 * [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) ⚠️ Archived - Browser automation and end-to-end web testing using Playwright.
 * [xk6-prometheus](https://github.com/szkiba/xk6-prometheus) ⭐ 54 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Prometheus HTTP exporter for k6.
@@ -206,7 +206,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2026-10-05 - Export results to AWS Timestream.
 * [xk6-nats](https://github.com/ydarias/xk6-nats) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2024-06-10 - Provides NATS support for k6 tests.
 * [xk6-mock](https://github.com/szkiba/xk6-mock) ⚠️ Archived - Mock HTTP(S) servers.
-* [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-10-04 - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
+* [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-10-04 - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
 * [xk6-ethereum](https://github.com/distribworks/xk6-ethereum) ⭐ 0 | 🐛 0 | 📅 2026-08-24 - K6 extension for ethereum protocols.
 
 ## Related
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

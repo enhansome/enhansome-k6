@@ -397,8 +397,8 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T18:52:41Z",
-            "open_issues": 5742,
+            "last_commit": "2026-10-06T10:30:45Z",
+            "open_issues": 5749,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26771,
@@ -984,8 +984,8 @@
                 "id": 372546038,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T13:21:22Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-06T07:09:25Z",
+                "open_issues": 3,
                 "owner": "grafana",
                 "repo": "xk6-faker",
                 "stars": 118,
@@ -1519,7 +1519,7 @@
                 "open_issues": 0,
                 "owner": "Dmitry-Fedotov-Dev",
                 "repo": "xk6-sip",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "audio-quality",
                   "call-recording",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:28:48.820Z",
+    "last_updated": "2026-10-06T10:46:51.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
