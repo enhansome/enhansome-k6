@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:30:45Z",
-            "open_issues": 5749,
+            "last_commit": "2026-10-06T17:26:36Z",
+            "open_issues": 5748,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26771,
+            "stars": 26772,
             "topics": [
               "api",
               "api-client",
@@ -1625,7 +1625,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-18T13:27:03Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
             "stars": 253,
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:51.013Z",
+    "last_updated": "2026-10-06T18:39:53.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
