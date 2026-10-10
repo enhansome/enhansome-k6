@@ -398,10 +398,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T12:51:17Z",
-            "open_issues": 5748,
+            "open_issues": 5749,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26779,
+            "stars": 26784,
             "topics": [
               "api",
               "api-client",
@@ -1445,7 +1445,7 @@
                 "id": 565231443,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T22:12:24Z",
+                "last_commit": "2026-10-10T04:35:44Z",
                 "open_issues": 4,
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:33:10.749Z",
+    "last_updated": "2026-10-10T17:29:46.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
