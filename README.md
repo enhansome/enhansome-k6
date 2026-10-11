@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,784 | 🐛 5,749 | 🌐 Java | 📅 2026-10-09 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,785 | 🐛 5,753 | 🌐 Java | 📅 2026-10-09 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 166 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-09 - Tool for converting HAR recordings to k6 test scripts.
@@ -189,7 +189,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 4 | 🌐 Go | 📅 2026-09-12 - MQTT extension.
 * [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) ⚠️ Archived - Browser automation and end-to-end web testing using Playwright.
 * [xk6-prometheus](https://github.com/szkiba/xk6-prometheus) ⭐ 54 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Prometheus HTTP exporter for k6.
-* [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 52 | 🐛 12 | 🌐 Go | 📅 2026-09-17 - A k6 extension for Server-Sent Events (SSE).
+* [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 52 | 🐛 11 | 🌐 Go | 📅 2026-09-17 - A k6 extension for Server-Sent Events (SSE).
 * [xk6-g0](https://github.com/szkiba/xk6-g0) ⭐ 47 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Write k6 tests in golang.
 * [xk6-file](https://github.com/avitalique/xk6-file) ⭐ 36 | 🐛 1 | 🌐 Go | 📅 2026-09-29 - Write files.
 * [xk6-output-statsd](https://github.com/LeonAdato/xk6-output-statsd) ⭐ 36 | 🐛 10 | 🌐 Go | 📅 2026-09-24 - Enables real-time output of test metrics to a StatsD service.
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
