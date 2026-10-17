@@ -144,7 +144,7 @@
             "open_issues": 17,
             "owner": "grafana",
             "repo": "quickpizza",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T22:45:03.434Z"
@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T20:53:18Z",
-            "open_issues": 5757,
+            "last_commit": "2026-10-17T05:00:03Z",
+            "open_issues": 5764,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26807,
+            "stars": 26806,
             "topics": [
               "api",
               "api-client",
@@ -1515,7 +1515,7 @@
                 "id": 1386201212,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T10:42:46Z",
+                "last_commit": "2026-10-17T14:03:24Z",
                 "open_issues": 0,
                 "owner": "Dmitry-Fedotov-Dev",
                 "repo": "xk6-sip",
@@ -1588,7 +1588,7 @@
             "open_issues": 16,
             "owner": "denji",
             "repo": "awesome-http-benchmark",
-            "stars": 3783,
+            "stars": 3784,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:01:18.097Z",
+    "last_updated": "2026-10-17T16:00:11.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",

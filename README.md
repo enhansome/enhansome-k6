@@ -117,7 +117,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [k6-typescript-template](https://github.com/grafana/k6-template-typescript) ⚠️ Archived - Starter template using Webpack bundler to write k6 tests in TypeScript.
 * [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) ⭐ 179 | 🐛 3 | 🌐 JavaScript | 📅 2025-04-02 - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
-* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 171 | 🐛 17 | 🌐 Go | 📅 2026-10-14 - Web application used for demos and workshops with multiple k6 examples.
+* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 172 | 🐛 17 | 🌐 Go | 📅 2026-10-14 - Web application used for demos and workshops with multiple k6 examples.
 * [k6-template-es6](https://github.com/grafana/k6-template-es6) ⚠️ Archived - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 * [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-06 - Use K6 to implement a Multi Scenario template.
 * [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-29 - Opinionated starter templates for k6 projects.
@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,807 | 🐛 5,757 | 🌐 Java | 📅 2026-10-15 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,806 | 🐛 5,764 | 🌐 Java | 📅 2026-10-17 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 166 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-16 - Tool for converting HAR recordings to k6 test scripts.
@@ -206,12 +206,12 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 3 | 🌐 Go | 📅 2026-10-15 - Export results to AWS Timestream.
 * [xk6-nats](https://github.com/ydarias/xk6-nats) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2024-06-10 - Provides NATS support for k6 tests.
 * [xk6-mock](https://github.com/szkiba/xk6-mock) ⚠️ Archived - Mock HTTP(S) servers.
-* [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-10-04 - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
+* [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-10-17 - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
 * [xk6-ethereum](https://github.com/distribworks/xk6-ethereum) ⭐ 0 | 🐛 0 | 📅 2026-08-24 - K6 extension for ethereum protocols.
 
 ## Related
 
-* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,783 | 🐛 16 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,784 | 🐛 16 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 * [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 253 | 🐛 2 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 1 | 📅 2026-08-31 - A collection of resources on how companies around the world perform load testing.
 
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
