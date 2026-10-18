@@ -133,8 +133,8 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,806 | 🐛 5,764 | 🌐 Java | 📅 2026-10-17 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
-* [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,806 | 🐛 5,779 | 🌐 Java | 📅 2026-10-18 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 557 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 166 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-16 - Tool for converting HAR recordings to k6 test scripts.
 * [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) ⚠️ Archived - Tool for converting JMeter test cases to k6 test scripts.
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

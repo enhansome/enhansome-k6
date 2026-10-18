@@ -397,8 +397,8 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T05:00:03Z",
-            "open_issues": 5764,
+            "last_commit": "2026-10-18T13:23:08Z",
+            "open_issues": 5779,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
             "stars": 26806,
@@ -436,7 +436,7 @@
             "open_issues": 5,
             "owner": "benc-uk",
             "repo": "k6-reporter",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "html-report",
               "k6",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:00:11.560Z",
+    "last_updated": "2026-10-18T16:10:43.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
