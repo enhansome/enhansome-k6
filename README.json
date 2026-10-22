@@ -95,7 +95,7 @@
             "open_issues": 0,
             "owner": "grafana-cold-storage",
             "repo": "k6-template-typescript",
-            "stars": 306,
+            "stars": 305,
             "topics": [
               "javascript",
               "k6",
@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T11:13:51Z",
-            "open_issues": 5777,
+            "last_commit": "2026-10-22T06:35:37Z",
+            "open_issues": 5786,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26814,
+            "stars": 26818,
             "topics": [
               "api",
               "api-client",
@@ -436,7 +436,7 @@
             "open_issues": 5,
             "owner": "benc-uk",
             "repo": "k6-reporter",
-            "stars": 557,
+            "stars": 556,
             "topics": [
               "html-report",
               "k6",
@@ -485,7 +485,7 @@
             "id": 171713086,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T16:02:53Z",
+            "last_commit": "2026-10-22T16:10:32Z",
             "open_issues": 28,
             "owner": "grafana",
             "repo": "har-to-k6",
@@ -1089,7 +1089,7 @@
                 "open_issues": 13,
                 "owner": "phymbert",
                 "repo": "xk6-sse",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "k6",
                   "sse",
@@ -1315,7 +1315,7 @@
                 "id": 485689598,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T19:01:50Z",
+                "last_commit": "2026-10-22T07:14:36Z",
                 "open_issues": 18,
                 "owner": "elastic",
                 "repo": "xk6-output-elasticsearch",
@@ -1445,7 +1445,7 @@
                 "id": 565231443,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-21T05:00:32Z",
+                "last_commit": "2026-10-22T05:49:49Z",
                 "open_issues": 3,
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:42:39.300Z",
+    "last_updated": "2026-10-22T17:41:07.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
@@ -1685,7 +1685,7 @@
       "open_issues": 4,
       "owner": "grafana",
       "repo": "awesome-k6",
-      "stars": 780,
+      "stars": 781,
       "topics": [
         "awesome",
         "awesome-list",
