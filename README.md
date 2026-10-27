@@ -133,10 +133,10 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,830 | 🐛 5,796 | 🌐 Java | 📅 2026-10-26 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,832 | 🐛 5,797 | 🌐 Java | 📅 2026-10-27 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
-* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 166 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-26 - Tool for converting HAR recordings to k6 test scripts.
+* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 166 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-27 - Tool for converting HAR recordings to k6 test scripts.
 * [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) ⚠️ Archived - Tool for converting JMeter test cases to k6 test scripts.
 * [k6-html-reporter](https://github.com/szboynono/k6-html-reporter) ⭐ 25 | 🐛 2 | 🌐 HTML | 📅 2021-09-19 - Tool for generating k6 HTML reports.
 * [k6-to-junit](https://github.com/Mattihew/k6-to-junit) ⭐ 20 | 🐛 9 | 🌐 TypeScript | 📅 2023-10-19 - Tool for converting k6 output to JUnit XML for easy use with CIs.
@@ -174,7 +174,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 11 | 🌐 Go | 📅 2026-10-26 - Export results to InfluxDB v2.
 * [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 82 | 🐛 15 | 🌐 Go | 📅 2026-10-23 - Interact with Kubernetes clusters.
 * [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) ⭐ 62 | 🐛 6 | 🌐 Go | 📅 2026-10-21 - Client for load testing distributed tracing backends.
-* [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 18 | 🌐 Go | 📅 2026-10-26 - Client for load testing Loki.
+* [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 18 | 🌐 Go | 📅 2026-10-27 - Client for load testing Loki.
 * [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) ⚠️ Archived - Export k6 results to TimescaleDB.
 * [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 5 | 🌐 Go | 📅 2026-10-22 - Test Prometheus Remote Write performance.
 * [xk6-exec](https://github.com/grafana/xk6-exec) ⚠️ Archived - Run external commands.
@@ -184,9 +184,9 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ### Community
 
-* [xk6-kafka](https://github.com/mostafa/xk6-kafka) ⭐ 219 | 🐛 5 | 🌐 Go | 📅 2026-09-08 - Load-test Apache Kafka. Includes support for Avro messages.
+* [xk6-kafka](https://github.com/mostafa/xk6-kafka) ⭐ 220 | 🐛 5 | 🌐 Go | 📅 2026-09-08 - Load-test Apache Kafka. Includes support for Avro messages.
 * [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 117 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-23 - Generate random fake data.
-* [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 4 | 🌐 Go | 📅 2026-09-12 - MQTT extension.
+* [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-09-12 - MQTT extension.
 * [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) ⚠️ Archived - Browser automation and end-to-end web testing using Playwright.
 * [xk6-prometheus](https://github.com/szkiba/xk6-prometheus) ⭐ 54 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Prometheus HTTP exporter for k6.
 * [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 54 | 🐛 13 | 🌐 Go | 📅 2026-10-21 - A k6 extension for Server-Sent Events (SSE).
@@ -198,12 +198,12 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-cable](https://github.com/anycable/xk6-cable) ⭐ 31 | 🐛 0 | 🌐 Go | 📅 2024-06-24 - Test Action Cable and AnyCable functionality.
 * [xk6-top](https://github.com/szkiba/xk6-top) ⭐ 31 | 🐛 10 | 🌐 Go | 📅 2026-03-09 - Updating the current k6 metrics summaries on the terminal during the test run.
 * [xk6-kv](https://github.com/oleiade/xk6-kv) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-09-10 - Share key-value data between VUs.
-* [xk6-output-elasticsearch](https://github.com/elastic/xk6-output-elasticsearch) ⭐ 25 | 🐛 18 | 🌐 Go | 📅 2026-10-23 - Export results to Elasticsearch 8.x.
+* [xk6-output-elasticsearch](https://github.com/elastic/xk6-output-elasticsearch) ⭐ 25 | 🐛 18 | 🌐 Go | 📅 2026-10-27 - Export results to Elasticsearch 8.x.
 * [xk6-tcp](https://github.com/NAlexandrov/xk6-tcp) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2025-11-27 - Send data to TCP port.
 * [xk6-coap](https://github.com/golioth/xk6-coap) ⭐ 17 | 🐛 6 | 🌐 Go | 📅 2024-06-10 - Interact with Constrained Application Protocol endpoints.
 * [xk6-prompt](https://github.com/Juandavi1/xk6-prompt) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2024-06-10 - Support for input arguments via UI.
 * [xk6-output-prometheus-pushgateway](https://github.com/martymarron/xk6-output-prometheus-pushgateway) ⭐ 16 | 🐛 5 | 🌐 Go | 📅 2024-07-29 - Export results to Prometheus pushgateway.
-* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 3 | 🌐 Go | 📅 2026-10-26 - Export results to AWS Timestream.
+* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 3 | 🌐 Go | 📅 2026-10-27 - Export results to AWS Timestream.
 * [xk6-nats](https://github.com/ydarias/xk6-nats) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2024-06-10 - Provides NATS support for k6 tests.
 * [xk6-mock](https://github.com/szkiba/xk6-mock) ⚠️ Archived - Mock HTTP(S) servers.
 * [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-10-17 - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
