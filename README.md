@@ -117,7 +117,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [k6-typescript-template](https://github.com/grafana/k6-template-typescript) ⚠️ Archived - Starter template using Webpack bundler to write k6 tests in TypeScript.
 * [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) ⭐ 179 | 🐛 3 | 🌐 JavaScript | 📅 2025-04-02 - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
-* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 174 | 🐛 20 | 🌐 Go | 📅 2026-10-28 - Web application used for demos and workshops with multiple k6 examples.
+* [k6 QuickPizza examples](https://github.com/grafana/quickpizza) ⭐ 174 | 🐛 21 | 🌐 Go | 📅 2026-10-29 - Web application used for demos and workshops with multiple k6 examples.
 * [k6-template-es6](https://github.com/grafana/k6-template-es6) ⚠️ Archived - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 * [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-06 - Use K6 to implement a Multi Scenario template.
 * [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-29 - Opinionated starter templates for k6 projects.
@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,838 | 🐛 5,798 | 🌐 Java | 📅 2026-10-28 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,839 | 🐛 5,817 | 🌐 Java | 📅 2026-10-29 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 167 | 🐛 29 | 🌐 JavaScript | 📅 2026-10-27 - Tool for converting HAR recordings to k6 test scripts.
@@ -174,9 +174,9 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 11 | 🌐 Go | 📅 2026-10-28 - Export results to InfluxDB v2.
 * [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 82 | 🐛 15 | 🌐 Go | 📅 2026-10-28 - Interact with Kubernetes clusters.
 * [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) ⭐ 62 | 🐛 6 | 🌐 Go | 📅 2026-10-28 - Client for load testing distributed tracing backends.
-* [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 18 | 🌐 Go | 📅 2026-10-28 - Client for load testing Loki.
+* [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 17 | 🌐 Go | 📅 2026-10-28 - Client for load testing Loki.
 * [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) ⚠️ Archived - Export k6 results to TimescaleDB.
-* [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 6 | 🌐 Go | 📅 2026-10-28 - Test Prometheus Remote Write performance.
+* [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 3 | 🌐 Go | 📅 2026-10-29 - Test Prometheus Remote Write performance.
 * [xk6-exec](https://github.com/grafana/xk6-exec) ⚠️ Archived - Run external commands.
 * [xk6-output-kafka](https://github.com/grafana/xk6-output-kafka) ⚠️ Archived - Export k6 results in real-time to Kafka.
 * [xk6-notification](https://github.com/grafana/xk6-notification) ⚠️ Archived - Create notifications.
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
