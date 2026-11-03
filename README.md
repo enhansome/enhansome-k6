@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,846 | 🐛 5,811 | 🌐 Java | 📅 2026-11-02 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,848 | 🐛 5,819 | 🌐 Java | 📅 2026-11-03 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 555 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 167 | 🐛 30 | 🌐 JavaScript | 📅 2026-11-02 - Tool for converting HAR recordings to k6 test scripts.
@@ -171,7 +171,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 * [xk6-sql](https://github.com/grafana/xk6-sql) ⭐ 192 | 🐛 22 | 🌐 Go | 📅 2026-11-01 - Load-test SQL Servers (PostgreSQL, MySQL and SQLite3 for now).
 * [xk6-disruptor](https://github.com/grafana/xk6-disruptor) ⚠️ Archived - Inject faults to test 💣.
-* [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - Export results to InfluxDB v2.
+* [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⭐ 83 | 🐛 11 | 🌐 Go | 📅 2026-11-03 - Export results to InfluxDB v2.
 * [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 82 | 🐛 15 | 🌐 Go | 📅 2026-10-31 - Interact with Kubernetes clusters.
 * [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) ⭐ 62 | 🐛 6 | 🌐 Go | 📅 2026-11-02 - Client for load testing distributed tracing backends.
 * [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 19 | 🌐 Go | 📅 2026-11-02 - Client for load testing Loki.
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T17:03:31Z",
-            "open_issues": 5811,
+            "last_commit": "2026-11-03T15:29:34Z",
+            "open_issues": 5819,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26846,
+            "stars": 26848,
             "topics": [
               "api",
               "api-client",
@@ -685,8 +685,8 @@
                 "id": 418433841,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T03:02:11Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-03T00:01:52Z",
+                "open_issues": 11,
                 "owner": "grafana",
                 "repo": "xk6-output-influxdb",
                 "stars": 83,
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:57:53.574Z",
+    "last_updated": "2026-11-03T19:51:48.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
@@ -1685,7 +1685,7 @@
       "open_issues": 5,
       "owner": "grafana",
       "repo": "awesome-k6",
-      "stars": 783,
+      "stars": 782,
       "topics": [
         "awesome",
         "awesome-list",
