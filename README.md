@@ -133,10 +133,10 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,848 | 🐛 5,819 | 🌐 Java | 📅 2026-11-03 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,844 | 🐛 5,815 | 🌐 Java | 📅 2026-11-04 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 555 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
-* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 167 | 🐛 30 | 🌐 JavaScript | 📅 2026-11-02 - Tool for converting HAR recordings to k6 test scripts.
+* [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 167 | 🐛 21 | 🌐 JavaScript | 📅 2026-11-04 - Tool for converting HAR recordings to k6 test scripts.
 * [jmeter-to-k6](https://github.com/grafana/jmeter-to-k6) ⚠️ Archived - Tool for converting JMeter test cases to k6 test scripts.
 * [k6-html-reporter](https://github.com/szboynono/k6-html-reporter) ⭐ 25 | 🐛 2 | 🌐 HTML | 📅 2021-09-19 - Tool for generating k6 HTML reports.
 * [k6-to-junit](https://github.com/Mattihew/k6-to-junit) ⭐ 20 | 🐛 9 | 🌐 TypeScript | 📅 2023-10-19 - Tool for converting k6 output to JUnit XML for easy use with CIs.
@@ -203,7 +203,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-coap](https://github.com/golioth/xk6-coap) ⭐ 17 | 🐛 6 | 🌐 Go | 📅 2024-06-10 - Interact with Constrained Application Protocol endpoints.
 * [xk6-prompt](https://github.com/Juandavi1/xk6-prompt) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2024-06-10 - Support for input arguments via UI.
 * [xk6-output-prometheus-pushgateway](https://github.com/martymarron/xk6-output-prometheus-pushgateway) ⭐ 16 | 🐛 5 | 🌐 Go | 📅 2024-07-29 - Export results to Prometheus pushgateway.
-* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2026-11-02 - Export results to AWS Timestream.
+* [xk6-output-timestream](https://github.com/leonyork/xk6-output-timestream) ⭐ 16 | 🐛 4 | 🌐 Go | 📅 2026-11-03 - Export results to AWS Timestream.
 * [xk6-nats](https://github.com/ydarias/xk6-nats) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2024-06-10 - Provides NATS support for k6 tests.
 * [xk6-mock](https://github.com/szkiba/xk6-mock) ⚠️ Archived - Mock HTTP(S) servers.
 * [xk6-sip](https://github.com/Dmitry-Fedotov-Dev/xk6-sip) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-10-17 - Load and call-flow testing of SIP/VoIP systems: scripted subscribers call each other through the PBX, with RTP media and voice quality checks.
@@ -212,7 +212,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 ## Related
 
 * [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,789 | 🐛 17 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 6 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 7 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 2 | 📅 2026-08-31 - A collection of resources on how companies around the world perform load testing.
 
 ## Contributing
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
