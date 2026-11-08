@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T13:40:59Z",
-            "open_issues": 5832,
+            "last_commit": "2026-11-08T05:41:45Z",
+            "open_issues": 5835,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26849,
+            "stars": 26853,
             "topics": [
               "api",
               "api-client",
@@ -812,7 +812,7 @@
                 "id": 342031394,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T03:04:36Z",
+                "last_commit": "2026-11-08T18:02:17Z",
                 "open_issues": 4,
                 "owner": "grafana",
                 "repo": "xk6-client-prometheus-remote",
@@ -1315,7 +1315,7 @@
                 "id": 485689598,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T03:08:13Z",
+                "last_commit": "2026-11-08T15:00:56Z",
                 "open_issues": 18,
                 "owner": "elastic",
                 "repo": "xk6-output-elasticsearch",
@@ -1628,7 +1628,7 @@
             "open_issues": 7,
             "owner": "aliesbelik",
             "repo": "load-testing-toolkit",
-            "stars": 252,
+            "stars": 253,
             "topics": [
               "benchmarking",
               "ddos",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:52:52.071Z",
+    "last_updated": "2026-11-08T18:07:25.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",

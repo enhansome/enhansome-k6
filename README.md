@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,849 | 🐛 5,832 | 🌐 Java | 📅 2026-11-06 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,853 | 🐛 5,835 | 🌐 Java | 📅 2026-11-08 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 555 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 167 | 🐛 20 | 🌐 JavaScript | 📅 2026-11-05 - Tool for converting HAR recordings to k6 test scripts.
@@ -176,7 +176,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) ⭐ 62 | 🐛 6 | 🌐 Go | 📅 2026-11-02 - Client for load testing distributed tracing backends.
 * [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 19 | 🌐 Go | 📅 2026-11-06 - Client for load testing Loki.
 * [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) ⚠️ Archived - Export k6 results to TimescaleDB.
-* [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 4 | 🌐 Go | 📅 2026-11-06 - Test Prometheus Remote Write performance.
+* [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 4 | 🌐 Go | 📅 2026-11-08 - Test Prometheus Remote Write performance.
 * [xk6-exec](https://github.com/grafana/xk6-exec) ⚠️ Archived - Run external commands.
 * [xk6-output-kafka](https://github.com/grafana/xk6-output-kafka) ⚠️ Archived - Export k6 results in real-time to Kafka.
 * [xk6-notification](https://github.com/grafana/xk6-notification) ⚠️ Archived - Create notifications.
@@ -198,7 +198,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-cable](https://github.com/anycable/xk6-cable) ⭐ 31 | 🐛 0 | 🌐 Go | 📅 2024-06-24 - Test Action Cable and AnyCable functionality.
 * [xk6-top](https://github.com/szkiba/xk6-top) ⭐ 31 | 🐛 10 | 🌐 Go | 📅 2026-03-09 - Updating the current k6 metrics summaries on the terminal during the test run.
 * [xk6-kv](https://github.com/oleiade/xk6-kv) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-09-10 - Share key-value data between VUs.
-* [xk6-output-elasticsearch](https://github.com/elastic/xk6-output-elasticsearch) ⭐ 25 | 🐛 18 | 🌐 Go | 📅 2026-11-06 - Export results to Elasticsearch 8.x.
+* [xk6-output-elasticsearch](https://github.com/elastic/xk6-output-elasticsearch) ⭐ 25 | 🐛 18 | 🌐 Go | 📅 2026-11-08 - Export results to Elasticsearch 8.x.
 * [xk6-tcp](https://github.com/NAlexandrov/xk6-tcp) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2025-11-27 - Send data to TCP port.
 * [xk6-coap](https://github.com/golioth/xk6-coap) ⭐ 17 | 🐛 6 | 🌐 Go | 📅 2024-06-10 - Interact with Constrained Application Protocol endpoints.
 * [xk6-prompt](https://github.com/Juandavi1/xk6-prompt) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2024-06-10 - Support for input arguments via UI.
@@ -212,7 +212,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 ## Related
 
 * [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,787 | 🐛 17 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
-* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 7 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+* [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 253 | 🐛 7 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 2 | 📅 2026-08-31 - A collection of resources on how companies around the world perform load testing.
 
 ## Contributing
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
