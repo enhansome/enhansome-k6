@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "grafana-cold-storage",
             "repo": "k6-learn",
-            "stars": 442,
+            "stars": 439,
             "topics": []
           },
           "first_seen": "2026-08-28T22:45:03.434Z"
@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T12:54:00Z",
-            "open_issues": 5836,
+            "last_commit": "2026-11-13T13:28:50Z",
+            "open_issues": 5846,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26858,
+            "stars": 26863,
             "topics": [
               "api",
               "api-client",
@@ -489,7 +489,7 @@
             "open_issues": 19,
             "owner": "grafana",
             "repo": "har-to-k6",
-            "stars": 167,
+            "stars": 165,
             "topics": [
               "har",
               "k6-converter"
@@ -739,8 +739,8 @@
                 "id": 422510734,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T21:01:41Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-13T06:38:10Z",
+                "open_issues": 9,
                 "owner": "grafana",
                 "repo": "xk6-client-tracing",
                 "stars": 62,
@@ -812,7 +812,7 @@
                 "id": 342031394,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T18:02:05Z",
+                "last_commit": "2026-11-13T15:18:24Z",
                 "open_issues": 5,
                 "owner": "grafana",
                 "repo": "xk6-client-prometheus-remote",
@@ -1033,7 +1033,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T06:55:44Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "phymbert",
                 "repo": "xk6-sse",
                 "stars": 55,
@@ -1445,8 +1445,8 @@
                 "id": 565231443,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-12T19:27:41Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-13T04:52:14Z",
+                "open_issues": 5,
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16,
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:30:25.100Z",
+    "last_updated": "2026-11-13T20:07:20.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
