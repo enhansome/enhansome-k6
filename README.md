@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,863 | 🐛 5,860 | 🌐 Java | 📅 2026-11-14 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,864 | 🐛 5,861 | 🌐 Java | 📅 2026-11-15 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 555 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 165 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-09 - Tool for converting HAR recordings to k6 test scripts.
@@ -174,7 +174,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-output-influxdb](https://github.com/grafana/xk6-output-influxdb) ⚠️ Archived - Export results to InfluxDB v2.
 * [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) ⭐ 82 | 🐛 15 | 🌐 Go | 📅 2026-11-14 - Interact with Kubernetes clusters.
 * [xk6-client-tracing](https://github.com/grafana/xk6-client-tracing) ⭐ 62 | 🐛 9 | 🌐 Go | 📅 2026-11-13 - Client for load testing distributed tracing backends.
-* [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 20 | 🌐 Go | 📅 2026-11-13 - Client for load testing Loki.
+* [xk6-loki](https://github.com/grafana/xk6-loki) ⭐ 55 | 🐛 20 | 🌐 Go | 📅 2026-11-15 - Client for load testing Loki.
 * [xk6-output-timescaledb](https://github.com/grafana/xk6-output-timescaledb) ⚠️ Archived - Export k6 results to TimescaleDB.
 * [xk6-client-prometheus-remote](https://github.com/grafana/xk6-client-prometheus-remote) ⭐ 32 | 🐛 7 | 🌐 Go | 📅 2026-11-13 - Test Prometheus Remote Write performance.
 * [xk6-exec](https://github.com/grafana/xk6-exec) ⚠️ Archived - Run external commands.
@@ -185,7 +185,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 ### Community
 
 * [xk6-kafka](https://github.com/mostafa/xk6-kafka) ⭐ 219 | 🐛 5 | 🌐 Go | 📅 2026-09-08 - Load-test Apache Kafka. Includes support for Avro messages.
-* [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 117 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-14 - Generate random fake data.
+* [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 118 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-14 - Generate random fake data.
 * [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-09-12 - MQTT extension.
 * [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 55 | 🐛 15 | 🌐 Go | 📅 2026-11-14 - A k6 extension for Server-Sent Events (SSE).
 * [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) ⚠️ Archived - Browser automation and end-to-end web testing using Playwright.
@@ -211,7 +211,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Related
 
-* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,786 | 🐛 17 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,786 | 🐛 16 | 📅 2026-09-11 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 * [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 7 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 2 | 📅 2026-08-31 - A collection of resources on how companies around the world perform load testing.
 
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
