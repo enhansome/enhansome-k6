@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:41:28Z",
-            "open_issues": 5862,
+            "last_commit": "2026-11-18T14:22:04Z",
+            "open_issues": 5877,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26861,
+            "stars": 26862,
             "topics": [
               "api",
               "api-client",
@@ -489,7 +489,7 @@
             "open_issues": 17,
             "owner": "grafana",
             "repo": "har-to-k6",
-            "stars": 165,
+            "stars": 164,
             "topics": [
               "har",
               "k6-converter"
@@ -1160,8 +1160,8 @@
                 "id": 672949580,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T15:33:46Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-18T03:41:25Z",
+                "open_issues": 7,
                 "owner": "LeonAdato",
                 "repo": "xk6-output-statsd",
                 "stars": 36,
@@ -1315,7 +1315,7 @@
                 "id": 485689598,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-08T15:00:56Z",
+                "last_commit": "2026-11-18T15:03:32Z",
                 "open_issues": 18,
                 "owner": "elastic",
                 "repo": "xk6-output-elasticsearch",
@@ -1445,8 +1445,8 @@
                 "id": 565231443,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-17T08:01:39Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-18T18:42:58Z",
+                "open_issues": 4,
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
                 "stars": 16,
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:24:16.801Z",
+    "last_updated": "2026-11-18T20:56:28.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
