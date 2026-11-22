@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,866 | 🐛 5,875 | 🌐 Java | 📅 2026-11-21 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,868 | 🐛 5,889 | 🌐 Java | 📅 2026-11-22 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-16 - Tool for converting HAR recordings to k6 test scripts.
@@ -187,7 +187,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-kafka](https://github.com/mostafa/xk6-kafka) ⭐ 219 | 🐛 5 | 🌐 Go | 📅 2026-09-08 - Load-test Apache Kafka. Includes support for Avro messages.
 * [xk6-faker](https://github.com/szkiba/xk6-faker) ⭐ 118 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-14 - Generate random fake data.
 * [xk6-mqtt](https://github.com/pmalhaire/xk6-mqtt) ⭐ 59 | 🐛 0 | 🌐 Go | 📅 2026-09-12 - MQTT extension.
-* [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 55 | 🐛 15 | 🌐 Go | 📅 2026-11-14 - A k6 extension for Server-Sent Events (SSE).
+* [xk6-sse](https://github.com/phymbert/xk6-sse) ⭐ 56 | 🐛 15 | 🌐 Go | 📅 2026-11-14 - A k6 extension for Server-Sent Events (SSE).
 * [xk6-playwright](https://github.com/nicholasvuono/xk6-playwright) ⚠️ Archived - Browser automation and end-to-end web testing using Playwright.
 * [xk6-prometheus](https://github.com/szkiba/xk6-prometheus) ⭐ 54 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Prometheus HTTP exporter for k6.
 * [xk6-g0](https://github.com/szkiba/xk6-g0) ⭐ 47 | 🐛 8 | 🌐 Go | 📅 2026-03-01 - Write k6 tests in golang.
@@ -211,7 +211,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Related
 
-* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,788 | 🐛 16 | 📅 2026-11-17 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
+* [awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) ⭐ 3,790 | 🐛 16 | 📅 2026-11-17 - A collection of HTTP benchmark tools, testing/debugging, & restAPI (RESTful).
 * [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) ⭐ 252 | 🐛 7 | 📅 2026-09-18 - A collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 * [How They Load Test](https://github.com/aliesbelik/how-they-load) ⭐ 168 | 🐛 2 | 📅 2026-08-31 - A collection of resources on how companies around the world perform load testing.
 
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
