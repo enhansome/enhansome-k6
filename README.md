@@ -133,7 +133,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ## Tools
 
-* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,871 | 🐛 5,888 | 🌐 Java | 📅 2026-11-24 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
+* [k6 generator](https://github.com/OpenAPITools/openapi-generator) ⭐ 26,874 | 🐛 5,889 | 🌐 Java | 📅 2026-11-25 - Tool for converting Swagger/OpenAPI specifications to k6 test scripts.
 * [k6-reporter](https://github.com/benc-uk/k6-reporter) ⭐ 556 | 🐛 5 | 🌐 EJS | 📅 2026-03-01 - Tool for converting k6 output to HTML reports.
 * [postman-to-k6](https://github.com/grafana/postman-to-k6) ⚠️ Archived - Tool for converting Postman collections to k6 test scripts.
 * [har-to-k6](https://github.com/grafana/har-to-k6) ⭐ 164 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-24 - Tool for converting HAR recordings to k6 test scripts.
@@ -197,7 +197,7 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 * [xk6-dotenv](https://github.com/szkiba/xk6-dotenv) ⭐ 33 | 🐛 4 | 🌐 Go | 📅 2026-03-02 - Load env vars from a .env file.
 * [xk6-cable](https://github.com/anycable/xk6-cable) ⭐ 31 | 🐛 0 | 🌐 Go | 📅 2024-06-24 - Test Action Cable and AnyCable functionality.
 * [xk6-top](https://github.com/szkiba/xk6-top) ⭐ 31 | 🐛 10 | 🌐 Go | 📅 2026-03-09 - Updating the current k6 metrics summaries on the terminal during the test run.
-* [xk6-kv](https://github.com/oleiade/xk6-kv) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-09-10 - Share key-value data between VUs.
+* [xk6-kv](https://github.com/oleiade/xk6-kv) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2026-11-25 - Share key-value data between VUs.
 * [xk6-output-elasticsearch](https://github.com/elastic/xk6-output-elasticsearch) ⭐ 26 | 🐛 18 | 🌐 Go | 📅 2026-11-18 - Export results to Elasticsearch 8.x.
 * [xk6-tcp](https://github.com/NAlexandrov/xk6-tcp) ⭐ 20 | 🐛 1 | 🌐 Go | 📅 2025-11-27 - Send data to TCP port.
 * [xk6-coap](https://github.com/golioth/xk6-coap) ⭐ 17 | 🐛 6 | 🌐 Go | 📅 2024-06-10 - Interact with Constrained Application Protocol endpoints.
@@ -225,4 +225,4 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

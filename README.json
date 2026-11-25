@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T08:24:16Z",
-            "open_issues": 5888,
+            "last_commit": "2026-11-25T13:55:52Z",
+            "open_issues": 5889,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26871,
+            "stars": 26874,
             "topics": [
               "api",
               "api-client",
@@ -1287,7 +1287,7 @@
                 "id": 668324880,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T08:29:37Z",
+                "last_commit": "2026-11-25T12:40:26Z",
                 "open_issues": 2,
                 "owner": "oleiade",
                 "repo": "xk6-kv",
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:48:20.667Z",
+    "last_updated": "2026-11-25T22:01:05.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
