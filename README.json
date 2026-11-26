@@ -397,11 +397,11 @@
             "id": 133134007,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T13:55:52Z",
-            "open_issues": 5889,
+            "last_commit": "2026-11-26T17:57:23Z",
+            "open_issues": 5907,
             "owner": "OpenAPITools",
             "repo": "openapi-generator",
-            "stars": 26874,
+            "stars": 26876,
             "topics": [
               "api",
               "api-client",
@@ -436,7 +436,7 @@
             "open_issues": 5,
             "owner": "benc-uk",
             "repo": "k6-reporter",
-            "stars": 556,
+            "stars": 557,
             "topics": [
               "html-report",
               "k6",
@@ -1405,36 +1405,6 @@
             },
             {
               "node_type": "item",
-              "title": "xk6-output-prometheus-pushgateway",
-              "description": "Export results to Prometheus pushgateway.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is a k6 extension for publishing test-run metrics to Prometheus via Pushgateway.",
-                "homepage": null,
-                "id": 574348738,
-                "language": "Go",
-                "license": "Apache-2.0",
-                "last_commit": "2024-07-29T05:31:13Z",
-                "open_issues": 5,
-                "owner": "martymarron",
-                "repo": "xk6-output-prometheus-pushgateway",
-                "stars": 16,
-                "topics": [
-                  "grafana",
-                  "k6",
-                  "k6-extension",
-                  "load-testing",
-                  "performance-testing",
-                  "prometheus",
-                  "pushgateway",
-                  "xk6"
-                ]
-              },
-              "first_seen": "2026-08-28T22:45:03.434Z"
-            },
-            {
-              "node_type": "item",
               "title": "xk6-output-timestream",
               "description": "Export results to AWS Timestream.",
               "children": [],
@@ -1445,7 +1415,7 @@
                 "id": 565231443,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T21:29:22Z",
+                "last_commit": "2026-11-26T12:11:44Z",
                 "open_issues": 3,
                 "owner": "leonyork",
                 "repo": "xk6-output-timestream",
@@ -1479,6 +1449,36 @@
                 "repo": "xk6-nats",
                 "stars": 15,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T22:45:03.434Z"
+            },
+            {
+              "node_type": "item",
+              "title": "xk6-output-prometheus-pushgateway",
+              "description": "Export results to Prometheus pushgateway.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is a k6 extension for publishing test-run metrics to Prometheus via Pushgateway.",
+                "homepage": null,
+                "id": 574348738,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2024-07-29T05:31:13Z",
+                "open_issues": 5,
+                "owner": "martymarron",
+                "repo": "xk6-output-prometheus-pushgateway",
+                "stars": 15,
+                "topics": [
+                  "grafana",
+                  "k6",
+                  "k6-extension",
+                  "load-testing",
+                  "performance-testing",
+                  "prometheus",
+                  "pushgateway",
+                  "xk6"
+                ]
               },
               "first_seen": "2026-08-28T22:45:03.434Z"
             },
@@ -1673,7 +1673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T22:01:05.543Z",
+    "last_updated": "2026-11-26T21:59:28.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools, content and projects using k6",
